@@ -1,0 +1,502 @@
+davita_dialysis_dashboard_data_updated
+Patient_Name,Gender,Date_of_Birth,Dialysis_Date,Facility,CPT_Code,Payer_Type,Missed_Appointment,Infection_Rate,Patient ID
+Andrew Bernard,Male,1952-01-15,2025-02-26,Brooklyn Dialysis Center,90945,Medicaid,0,0.21,82869
+Daniel Woodard,Male,2000-12-22,2025-04-11,Staten Island Nephrology,90935,Uninsured,0,0.04,82105
+Stephanie Underwood,Male,1937-01-19,2025-05-15,Harlem Renal Care,90999,Medicare,0,1.07,42748
+Laura Vance,Female,1940-04-30,2025-04-08,Harlem Renal Care,90947,Private Insurance,0,1.14,22415
+Brady Randolph,Male,1944-07-14,2025-05-25,Bronx Dialysis Group,90945,Private Insurance,0,0.32,70560
+Kimberly Arias,Female,1970-11-13,2025-07-15,Brooklyn Dialysis Center,90935,Uninsured,0,0.54,23357
+Marc Larson,Female,1962-01-29,2025-04-01,Staten Island Nephrology,90945,Medicare,1,0.8,28322
+Michael Martinez,Female,1940-07-07,2025-02-16,Brooklyn Dialysis Center,90999,Private Insurance,1,0.87,25919
+Kathleen Stone,Male,1968-12-03,2025-02-03,Brooklyn Dialysis Center,90937,Private Insurance,0,1.28,11567
+Shannon Gray,Male,1969-04-19,2025-07-14,Bronx Dialysis Group,90945,Uninsured,1,0.24,18083
+Mr. Noah Hester,Female,2005-03-13,2025-05-29,Harlem Renal Care,90945,Medicare,0,0.8,39135
+Lisa Salas,Male,1940-11-23,2025-07-07,Harlem Renal Care,90947,Uninsured,1,1.48,27133
+Douglas Lopez,Male,1976-11-16,2025-06-20,Queens Kidney Institute,90935,Medicaid,0,1.21,35969
+Natalie Kelley,Female,1974-11-14,2025-03-03,Queens Kidney Institute,90935,Medicaid,1,0.32,62505
+Richard House,Female,1938-09-18,2025-03-24,Bronx Dialysis Group,90947,Medicaid,1,0.21,58790
+Shane Taylor,Female,1987-09-23,2025-03-03,Staten Island Nephrology,90947,Uninsured,1,0.33,99952
+David Lowe,Male,1952-05-24,2025-02-26,Staten Island Nephrology,90947,Medicare,0,1.29,92614
+Kimberly Brown DDS,Male,1959-04-13,2025-03-07,Harlem Renal Care,90947,Medicare,1,0.57,94500
+Robert Taylor,Female,1963-12-26,2025-02-26,Staten Island Nephrology,90945,Medicare,0,1.02,21015
+Lindsey Schwartz,Female,1978-01-18,2025-03-24,Queens Kidney Institute,90935,Private Insurance,1,0.24,86326
+Christine Davis,Male,1991-12-01,2025-03-30,Queens Kidney Institute,90999,Medicaid,0,1.31,86823
+Jermaine Nguyen,Female,1958-10-29,2025-01-30,Staten Island Nephrology,90999,Medicaid,0,0.56,43924
+Johnny Dominguez,Male,2003-10-13,2025-04-17,Staten Island Nephrology,90999,Medicare,1,0.73,19828
+Brittany Pham,Male,1986-05-09,2025-06-01,Queens Kidney Institute,90945,Medicaid,0,0.36,12857
+Karl Tate,Male,1958-06-15,2025-06-23,Brooklyn Dialysis Center,90947,Medicare,0,0.19,18450
+Pamela Webster,Female,1973-01-08,2025-05-12,Staten Island Nephrology,90937,Private Insurance,1,1.45,35919
+John Bell,Male,1949-07-10,2025-04-23,Queens Kidney Institute,90947,Private Insurance,1,1.35,94670
+Justin Larsen,Female,2007-01-09,2025-01-28,Brooklyn Dialysis Center,90937,Medicaid,0,0.51,68121
+Adam Hansen,Male,1963-08-28,2025-03-14,Staten Island Nephrology,90937,Medicare,0,1.06,26880
+Wendy Aguilar,Male,1937-10-30,2025-03-31,Harlem Renal Care,90935,Medicare,1,0.11,22055
+Kaitlyn Wilkerson,Male,1984-11-09,2025-02-20,Queens Kidney Institute,90947,Medicaid,0,1.09,53456
+John Spence,Female,1936-06-30,2025-02-26,Harlem Renal Care,90947,Uninsured,0,0.14,26059
+Andrew Travis,Female,1937-05-18,2025-04-22,Queens Kidney Institute,90947,Uninsured,1,1.3,15596
+Haley Gardner,Male,1969-06-27,2025-06-07,Brooklyn Dialysis Center,90935,Uninsured,1,1.2,70423
+Jeremy Turner,Male,1985-03-18,2025-02-21,Harlem Renal Care,90937,Medicaid,1,0.21,16637
+Charles Kane,Male,1956-02-01,2025-04-27,Queens Kidney Institute,90947,Medicaid,0,0.66,32018
+Jacob Preston,Male,1935-10-20,2025-06-15,Brooklyn Dialysis Center,90999,Medicare,0,1.39,85220
+Brendan Goodman,Male,2006-01-14,2025-05-20,Harlem Renal Care,90947,Uninsured,1,0.32,66774
+Sabrina Mccall,Female,1940-05-15,2025-05-09,Brooklyn Dialysis Center,90937,Uninsured,0,1.48,61773
+Alan Mckenzie MD,Female,1949-03-07,2025-03-25,Bronx Dialysis Group,90945,Uninsured,1,0.23,75028
+Carlos Edwards,Female,1987-07-22,2025-04-14,Harlem Renal Care,90935,Medicare,1,0.09,13864
+Stephen Oneill,Female,1996-03-19,2025-05-01,Staten Island Nephrology,90999,Medicaid,0,1.44,60165
+Eric Lester,Male,1947-10-12,2025-06-04,Harlem Renal Care,90935,Medicare,0,0.61,99550
+Jeremiah Snyder,Male,1982-10-30,2025-05-28,Staten Island Nephrology,90999,Medicare,0,0.63,65923
+Justin Rogers,Female,1945-02-21,2025-05-06,Queens Kidney Institute,90937,Private Insurance,0,0.4,32650
+Heather Bush,Male,1955-09-05,2025-06-16,Queens Kidney Institute,90947,Private Insurance,0,0.01,56392
+Steven Holder,Male,1992-02-13,2025-06-08,Brooklyn Dialysis Center,90999,Medicaid,1,0.2,38143
+Sharon Munoz,Female,1978-04-26,2025-07-05,Brooklyn Dialysis Center,90937,Private Insurance,1,0.24,34530
+Courtney Page,Female,1963-06-10,2025-02-25,Staten Island Nephrology,90999,Medicare,1,1.4,46042
+Ms. Jessica Duncan,Male,1981-01-14,2025-03-04,Harlem Renal Care,90945,Medicare,0,1.11,46681
+John Anthony,Male,1949-06-03,2025-07-15,Queens Kidney Institute,90945,Medicaid,1,0.31,68459
+Kevin Valentine,Female,2004-06-10,2025-04-19,Staten Island Nephrology,90947,Private Insurance,0,0.14,29481
+Lindsey Russell,Female,1954-04-16,2025-07-23,Queens Kidney Institute,90935,Medicare,1,1.16,14541
+Stephanie Lopez,Female,2007-04-17,2025-06-27,Harlem Renal Care,90947,Uninsured,0,0.17,90492
+Nicole King,Male,1954-06-07,2025-07-26,Staten Island Nephrology,90935,Private Insurance,0,0.64,91156
+Shannon Salinas,Male,1962-02-14,2025-02-21,Queens Kidney Institute,90945,Medicare,1,0.32,90868
+Aaron Franklin,Male,2002-05-07,2025-03-11,Brooklyn Dialysis Center,90945,Uninsured,0,1.39,42215
+Marissa Mendoza,Male,1987-04-10,2025-06-14,Harlem Renal Care,90937,Uninsured,0,0.27,94840
+Tiffany Guerrero,Female,1981-09-03,2025-03-07,Bronx Dialysis Group,90937,Private Insurance,0,1.18,48680
+Lauren Houston,Male,1978-04-15,2025-05-07,Bronx Dialysis Group,90935,Uninsured,0,0.3,75390
+Benjamin Johnson,Female,1962-05-30,2025-06-15,Queens Kidney Institute,90945,Medicaid,0,0.04,64000
+Tina Miller,Male,1943-01-07,2025-02-23,Bronx Dialysis Group,90945,Private Insurance,0,1.45,82179
+Stephanie Wade,Female,1935-11-10,2025-03-06,Queens Kidney Institute,90999,Uninsured,1,1.41,72787
+Richard Perez,Male,1994-12-27,2025-06-02,Queens Kidney Institute,90937,Private Insurance,0,0.16,17992
+Patricia Bell,Female,1977-07-11,2025-02-15,Queens Kidney Institute,90945,Uninsured,0,0.58,21497
+Douglas Stewart,Male,1949-11-03,2025-05-03,Queens Kidney Institute,90935,Uninsured,0,0.78,46670
+Jermaine Rhodes,Male,1991-02-01,2025-07-24,Queens Kidney Institute,90947,Medicare,1,0.93,60202
+Mark Hale,Male,1960-04-23,2025-03-02,Queens Kidney Institute,90999,Private Insurance,1,0.49,27987
+Suzanne Callahan,Female,1989-10-25,2025-05-06,Staten Island Nephrology,90937,Medicaid,1,1.0,64949
+Joseph Powers,Female,1994-07-04,2025-05-31,Harlem Renal Care,90999,Private Insurance,1,0.82,36143
+Amanda Trujillo,Male,1967-04-10,2025-03-20,Queens Kidney Institute,90945,Medicaid,1,1.18,94233
+Shaun Klein,Female,1999-07-15,2025-03-29,Bronx Dialysis Group,90947,Uninsured,0,0.77,78919
+Fernando Johnson,Male,1959-08-07,2025-07-13,Brooklyn Dialysis Center,90945,Private Insurance,0,1.23,42656
+Jessica Ross,Male,1975-01-04,2025-01-30,Queens Kidney Institute,90937,Medicaid,0,0.04,92674
+Frank Henry,Male,1966-11-20,2025-02-17,Bronx Dialysis Group,90999,Medicare,1,0.62,81258
+Stephen Pacheco,Male,1938-12-22,2025-04-28,Bronx Dialysis Group,90947,Uninsured,0,0.22,12559
+Andrew Aguilar,Male,1996-08-15,2025-06-19,Brooklyn Dialysis Center,90947,Medicaid,0,1.21,60134
+Kaitlin Miller,Female,1948-12-16,2025-04-10,Brooklyn Dialysis Center,90999,Medicaid,0,0.68,57069
+Amber Steele,Female,1997-09-06,2025-05-12,Staten Island Nephrology,90999,Private Insurance,1,0.92,72873
+Richard Hamilton,Female,2007-07-04,2025-07-01,Staten Island Nephrology,90947,Medicaid,1,0.68,81371
+Michael Sims,Male,1981-03-28,2025-02-19,Queens Kidney Institute,90999,Uninsured,0,0.41,73527
+Ruth Wilson,Male,1961-12-12,2025-03-30,Queens Kidney Institute,90937,Private Insurance,1,0.48,55093
+Andrea Walker,Male,2005-07-05,2025-03-03,Harlem Renal Care,90937,Medicaid,1,1.04,84141
+Anthony Sanders,Male,1946-09-10,2025-06-06,Brooklyn Dialysis Center,90947,Uninsured,1,0.81,75849
+Gloria Zavala,Female,1935-04-03,2025-02-28,Brooklyn Dialysis Center,90937,Uninsured,1,1.36,52153
+Miranda Cook,Male,1964-08-20,2025-04-07,Staten Island Nephrology,90947,Uninsured,0,1.41,60905
+Paige Newman,Female,1976-10-06,2025-04-07,Bronx Dialysis Group,90947,Medicaid,1,0.33,45446
+Chris Shaw,Female,1958-01-09,2025-06-17,Bronx Dialysis Group,90935,Uninsured,1,1.0,33568
+Christina Martin,Female,2001-10-18,2025-05-28,Harlem Renal Care,90947,Medicaid,0,1.36,13416
+Stacy Simmons,Male,1995-03-02,2025-05-31,Brooklyn Dialysis Center,90947,Medicaid,1,0.27,51795
+Shaun Anderson,Female,1943-03-13,2025-07-18,Bronx Dialysis Group,90945,Medicaid,1,0.49,88265
+Amber Fry,Female,1953-07-09,2025-05-19,Queens Kidney Institute,90947,Private Insurance,0,0.71,38707
+Joseph Lopez,Male,1978-09-17,2025-02-21,Queens Kidney Institute,90937,Medicare,0,1.13,13840
+Andrew Davila,Male,1981-07-15,2025-07-03,Harlem Renal Care,90935,Medicaid,0,0.19,46822
+Paul Love,Male,1953-12-09,2025-04-05,Staten Island Nephrology,90937,Uninsured,1,1.15,17679
+Jonathan Parker,Male,1993-01-27,2025-06-13,Staten Island Nephrology,90999,Medicare,0,1.45,71824
+Lauren York,Male,1973-03-24,2025-01-29,Staten Island Nephrology,90935,Private Insurance,1,0.59,79393
+Kristin Donovan MD,Male,2001-03-18,2025-03-10,Brooklyn Dialysis Center,90999,Medicaid,0,1.05,56849
+Dale Elliott,Female,1978-01-19,2025-04-13,Staten Island Nephrology,90935,Medicare,1,0.8,86544
+Justin Bowman,Female,1970-03-14,2025-02-23,Brooklyn Dialysis Center,90999,Private Insurance,0,1.27,40508
+Christopher Poole,Female,1969-06-22,2025-03-15,Brooklyn Dialysis Center,90947,Private Insurance,1,1.06,30922
+Meredith Sherman,Female,1949-02-09,2025-06-27,Harlem Renal Care,90999,Private Insurance,1,0.7,23124
+Daniel Phillips Jr.,Female,1959-02-11,2025-03-05,Queens Kidney Institute,90937,Medicare,1,1.32,42487
+Robin Johnson,Male,1995-03-21,2025-07-11,Bronx Dialysis Group,90999,Uninsured,1,0.04,96096
+Justin Morrow,Female,1957-11-11,2025-04-29,Harlem Renal Care,90947,Medicaid,1,1.2,41608
+Michael Hawkins,Female,1962-10-24,2025-06-27,Queens Kidney Institute,90999,Private Insurance,0,0.77,44934
+Daniel Clark,Male,1938-06-30,2025-04-28,Brooklyn Dialysis Center,90937,Uninsured,1,0.83,79951
+Kent Ross,Male,1968-05-20,2025-05-08,Bronx Dialysis Group,90947,Uninsured,0,0.14,17328
+Erin Thornton,Male,1961-09-17,2025-06-22,Bronx Dialysis Group,90937,Private Insurance,1,0.71,38758
+Alexandra Thompson,Female,1959-05-19,2025-02-09,Bronx Dialysis Group,90999,Private Insurance,1,1.05,85457
+Monique Miller,Female,1986-07-10,2025-05-28,Queens Kidney Institute,90945,Medicaid,0,1.08,60911
+Jennifer Williams MD,Female,1948-07-18,2025-07-27,Brooklyn Dialysis Center,90999,Medicaid,0,0.32,56504
+John Brewer,Female,1991-12-24,2025-05-05,Queens Kidney Institute,90999,Private Insurance,0,1.25,32768
+Katie Clark,Female,1968-07-07,2025-01-27,Harlem Renal Care,90945,Medicaid,1,0.02,33081
+Nicole Irwin,Male,1966-04-25,2025-01-27,Queens Kidney Institute,90935,Medicare,1,1.05,41005
+Riley Luna,Male,1979-03-11,2025-03-12,Bronx Dialysis Group,90935,Medicare,1,0.7,87662
+Jorge Smith,Female,1937-02-05,2025-04-24,Queens Kidney Institute,90937,Medicare,1,1.41,51681
+Cory Flores,Female,1969-12-02,2025-03-19,Brooklyn Dialysis Center,90935,Uninsured,1,0.11,57026
+Alexandra Johnson,Male,1965-03-18,2025-03-19,Harlem Renal Care,90937,Private Insurance,0,1.49,87537
+Emily Ramsey,Male,1999-01-14,2025-04-27,Staten Island Nephrology,90947,Medicaid,1,0.68,13697
+Jill Wilson,Female,1952-08-23,2025-02-28,Queens Kidney Institute,90999,Uninsured,1,0.85,56095
+James Walker,Male,1940-12-28,2025-02-26,Staten Island Nephrology,90935,Medicaid,0,0.4,84403
+Brenda Adams,Male,1983-10-17,2025-05-27,Harlem Renal Care,90937,Medicaid,0,0.23,83873
+Beth Rice,Female,1938-03-22,2025-06-05,Bronx Dialysis Group,90999,Uninsured,1,0.05,28625
+Miss Ana Huynh,Female,1978-11-29,2025-02-02,Queens Kidney Institute,90947,Medicare,0,1.39,83807
+Erica Smith MD,Male,2006-07-14,2025-03-01,Bronx Dialysis Group,90935,Medicaid,0,1.36,34672
+Diana Ryan,Male,1995-04-29,2025-04-04,Brooklyn Dialysis Center,90935,Medicaid,1,0.89,74517
+Dale Johnson,Female,1993-08-03,2025-05-25,Bronx Dialysis Group,90935,Uninsured,1,1.05,81057
+Andrea Mclaughlin,Female,1954-08-23,2025-02-03,Staten Island Nephrology,90999,Uninsured,1,0.12,50508
+George Prince,Male,1973-07-14,2025-07-19,Bronx Dialysis Group,90945,Private Insurance,0,0.14,33010
+Mckenzie Wood,Male,1983-07-20,2025-03-23,Queens Kidney Institute,90999,Medicare,0,0.71,74282
+Victoria Gomez DVM,Female,1945-03-31,2025-03-07,Queens Kidney Institute,90937,Uninsured,1,1.45,14975
+Jennifer Snyder,Female,1968-12-03,2025-05-29,Queens Kidney Institute,90947,Private Insurance,1,1.01,21830
+Monica Weiss,Male,1969-12-01,2025-07-13,Queens Kidney Institute,90947,Uninsured,1,0.99,17362
+Jennifer Snyder,Female,1943-06-25,2025-05-30,Staten Island Nephrology,90935,Uninsured,0,0.47,40490
+Natalie Nielsen,Female,1945-02-28,2025-04-02,Brooklyn Dialysis Center,90947,Medicare,1,0.62,88861
+Ronnie Johnson,Male,1985-02-11,2025-04-08,Staten Island Nephrology,90945,Uninsured,1,1.14,38679
+Jordan Chavez,Male,1974-10-03,2025-05-17,Queens Kidney Institute,90999,Medicaid,1,0.66,12612
+Patrick Kim,Female,1968-02-05,2025-04-07,Brooklyn Dialysis Center,90935,Medicaid,0,0.47,79002
+Teresa Mitchell,Male,1946-07-20,2025-05-21,Staten Island Nephrology,90947,Medicare,0,1.49,72650
+Jaime Cook,Male,1964-03-06,2025-03-31,Bronx Dialysis Group,90935,Medicaid,1,1.4,10089
+Billy Reyes,Female,1964-12-26,2025-07-04,Staten Island Nephrology,90945,Uninsured,1,1.47,53481
+Martin Barber,Male,1949-08-05,2025-06-25,Bronx Dialysis Group,90999,Medicaid,1,0.29,90495
+Richard Evans,Male,1942-05-11,2025-05-24,Brooklyn Dialysis Center,90945,Uninsured,1,1.4,36406
+Mr. Jason Mcclure,Female,1978-10-03,2025-07-26,Brooklyn Dialysis Center,90945,Private Insurance,1,1.3,27103
+Debra Jensen,Female,1937-06-22,2025-07-17,Staten Island Nephrology,90947,Private Insurance,1,0.83,54663
+Barbara Smith,Female,1948-06-22,2025-06-11,Bronx Dialysis Group,90945,Medicaid,0,0.86,33260
+Jocelyn Chase,Male,1984-06-19,2025-02-08,Bronx Dialysis Group,90935,Private Insurance,1,1.06,52413
+James Gonzalez,Female,1938-10-09,2025-02-06,Bronx Dialysis Group,90937,Uninsured,0,0.19,17806
+Christopher Aguilar,Female,2000-04-03,2025-06-09,Brooklyn Dialysis Center,90947,Medicare,1,0.02,12872
+Jennifer Caldwell,Male,1996-12-14,2025-05-03,Bronx Dialysis Group,90937,Medicare,1,1.17,29360
+Elizabeth Church,Female,2007-03-15,2025-05-11,Queens Kidney Institute,90999,Uninsured,0,1.28,86888
+Joseph Winters,Female,2004-06-26,2025-02-09,Queens Kidney Institute,90947,Medicare,0,0.35,28566
+Kevin Myers,Female,1958-07-12,2025-04-27,Harlem Renal Care,90935,Uninsured,0,1.14,24538
+Daniel Martinez,Male,1999-06-24,2025-03-24,Bronx Dialysis Group,90937,Private Insurance,0,0.07,78982
+Jeffrey Ballard,Male,1952-10-21,2025-07-08,Queens Kidney Institute,90945,Private Insurance,1,0.22,57826
+Lisa Briggs,Female,1979-11-20,2025-06-19,Staten Island Nephrology,90937,Medicaid,0,0.12,19506
+Jo Perkins,Female,1972-01-15,2025-06-30,Staten Island Nephrology,90937,Uninsured,0,0.35,58967
+Sheryl Greene,Female,2004-12-31,2025-07-12,Bronx Dialysis Group,90945,Medicare,1,1.35,96787
+Sabrina Simmons,Male,1994-11-17,2025-02-02,Brooklyn Dialysis Center,90947,Private Insurance,1,0.96,61851
+Jasmine Ray,Female,1934-08-14,2025-03-13,Queens Kidney Institute,90947,Private Insurance,0,1.5,86810
+Mark Lee,Female,1991-01-30,2025-03-17,Brooklyn Dialysis Center,90937,Uninsured,1,0.86,23242
+Teresa Foster,Female,1959-10-03,2025-04-14,Brooklyn Dialysis Center,90947,Private Insurance,0,0.85,54113
+Jason Park,Male,1957-01-04,2025-03-14,Staten Island Nephrology,90947,Private Insurance,0,0.91,49552
+Robert Robertson,Female,1949-02-09,2025-05-04,Harlem Renal Care,90937,Private Insurance,0,0.94,52284
+Mrs. Rebekah Cole,Male,1954-07-21,2025-03-03,Queens Kidney Institute,90947,Medicare,1,1.1,27884
+Jesus Garcia,Male,1935-04-01,2025-04-09,Queens Kidney Institute,90945,Uninsured,0,0.3,30644
+David Adkins,Female,2005-05-16,2025-02-03,Staten Island Nephrology,90999,Private Insurance,0,0.39,67261
+Stephen Parks,Female,1946-07-25,2025-02-18,Queens Kidney Institute,90945,Medicare,1,1.44,93789
+Dustin Bolton,Male,1990-10-22,2025-01-27,Harlem Renal Care,90947,Private Insurance,0,1.19,73858
+Andrew Mendez,Male,1972-09-06,2025-06-03,Queens Kidney Institute,90999,Medicare,1,0.55,95089
+Robin Garcia,Female,1937-08-30,2025-03-23,Staten Island Nephrology,90947,Private Insurance,0,1.01,51586
+Warren Williams,Female,1950-05-26,2025-06-14,Brooklyn Dialysis Center,90999,Private Insurance,0,0.97,32833
+Nicholas Mueller,Female,1972-08-05,2025-05-31,Queens Kidney Institute,90947,Medicare,0,0.07,83659
+Lisa Gomez,Male,1967-11-18,2025-05-28,Queens Kidney Institute,90947,Medicare,0,0.35,90440
+Rebekah Mcgee,Male,1972-10-26,2025-06-09,Bronx Dialysis Group,90947,Private Insurance,1,0.88,56769
+David Bailey,Male,1996-04-13,2025-05-11,Bronx Dialysis Group,90935,Uninsured,1,1.41,39260
+Michael Holt,Female,1937-09-25,2025-02-02,Brooklyn Dialysis Center,90945,Medicaid,1,0.67,97232
+Whitney Irwin,Male,1956-07-08,2025-03-11,Queens Kidney Institute,90935,Private Insurance,1,0.09,87194
+Mitchell Ellis,Female,1943-09-29,2025-03-05,Harlem Renal Care,90935,Uninsured,0,0.99,32983
+Lauren Moss,Male,1980-10-13,2025-02-21,Brooklyn Dialysis Center,90945,Medicaid,0,1.18,59595
+Richard Ochoa,Male,1952-02-29,2025-02-10,Brooklyn Dialysis Center,90999,Medicaid,0,1.22,50215
+Eric Mcgrath,Male,1951-04-02,2025-02-21,Queens Kidney Institute,90937,Medicare,1,1.29,48602
+Shannon Johns,Male,1975-04-19,2025-06-25,Harlem Renal Care,90999,Private Insurance,0,0.16,26691
+Sarah Powell,Male,1962-02-01,2025-06-29,Harlem Renal Care,90935,Private Insurance,0,0.88,33292
+Nancy James,Male,1939-09-10,2025-06-24,Harlem Renal Care,90945,Medicare,0,1.11,10235
+Michelle Yu,Male,1935-03-29,2025-03-06,Brooklyn Dialysis Center,90947,Uninsured,1,0.77,85082
+Eric Evans,Male,1950-04-07,2025-04-21,Bronx Dialysis Group,90999,Medicaid,0,1.09,61327
+Tiffany Warren,Female,2002-10-21,2025-02-12,Bronx Dialysis Group,90935,Medicare,1,1.27,84381
+David Rodriguez,Female,1992-11-04,2025-04-26,Brooklyn Dialysis Center,90947,Uninsured,0,1.35,14244
+Maria Jones,Female,1968-11-27,2025-06-27,Staten Island Nephrology,90937,Medicare,0,0.41,33865
+Theresa Ross,Female,1960-03-25,2025-05-19,Bronx Dialysis Group,90999,Private Insurance,1,0.76,88956
+Jessica Cordova MD,Female,1957-06-12,2025-04-02,Brooklyn Dialysis Center,90935,Medicaid,1,0.68,51709
+George Harrell,Male,1968-03-21,2025-04-26,Bronx Dialysis Group,90945,Uninsured,1,0.62,90134
+Anthony Simmons,Male,1991-11-22,2025-03-10,Queens Kidney Institute,90947,Private Insurance,1,0.56,38953
+Guy Smith,Male,2000-04-16,2025-07-04,Bronx Dialysis Group,90935,Medicare,0,0.14,93839
+Toni Harmon MD,Male,1946-04-25,2025-07-24,Queens Kidney Institute,90937,Medicare,1,1.01,84127
+Clifford Noble,Female,1956-01-21,2025-03-25,Queens Kidney Institute,90947,Medicare,1,0.9,23645
+Larry Solomon,Female,1955-10-09,2025-03-24,Brooklyn Dialysis Center,90999,Medicaid,0,0.99,75035
+Gary Hansen,Male,1970-07-16,2025-03-24,Brooklyn Dialysis Center,90945,Private Insurance,0,1.14,28434
+Robert Hansen,Male,2003-06-25,2025-03-19,Bronx Dialysis Group,90999,Medicare,1,0.04,53406
+Gregory Alvarado,Female,1953-05-03,2025-06-14,Queens Kidney Institute,90945,Private Insurance,0,0.27,20198
+Jeffrey Cook,Male,1937-05-15,2025-04-27,Staten Island Nephrology,90947,Medicare,0,1.11,41194
+Lindsay Washington,Male,1960-09-30,2025-02-23,Brooklyn Dialysis Center,90999,Medicaid,1,0.63,55457
+Seth Small III,Female,1940-09-29,2025-03-23,Harlem Renal Care,90945,Private Insurance,1,1.17,51879
+Susan Gray,Male,1968-06-28,2025-07-01,Brooklyn Dialysis Center,90937,Medicaid,0,1.01,32005
+Keith Jennings,Female,2002-03-31,2025-03-18,Bronx Dialysis Group,90947,Uninsured,1,0.62,93386
+Jennifer Thornton,Male,1995-12-13,2025-07-02,Staten Island Nephrology,90935,Private Insurance,1,0.17,21629
+Dana Davenport,Female,1989-06-07,2025-05-09,Staten Island Nephrology,90945,Medicare,0,0.59,97821
+James Gregory,Male,1938-09-22,2025-02-06,Brooklyn Dialysis Center,90937,Private Insurance,0,1.15,93768
+Kevin Carroll,Female,1948-08-21,2025-04-23,Queens Kidney Institute,90945,Medicare,0,0.75,54007
+Devin Pruitt,Female,1944-02-27,2025-04-14,Harlem Renal Care,90937,Uninsured,0,0.75,68540
+Allison Johnson,Female,1990-05-15,2025-07-09,Brooklyn Dialysis Center,90947,Medicare,1,0.03,11493
+Jacqueline Robertson,Male,1983-08-10,2025-05-14,Queens Kidney Institute,90999,Uninsured,1,1.06,44761
+John Reese,Female,1990-11-11,2025-06-22,Queens Kidney Institute,90935,Uninsured,0,1.45,37483
+Karen Hogan,Male,1984-07-23,2025-07-20,Staten Island Nephrology,90947,Private Insurance,0,0.66,42707
+Sarah Landry,Male,1961-11-30,2025-06-29,Harlem Renal Care,90947,Uninsured,0,0.59,18885
+Rhonda Burke,Female,1939-05-29,2025-07-02,Queens Kidney Institute,90937,Private Insurance,0,0.11,55938
+Sandra Diaz,Male,1988-09-07,2025-05-29,Staten Island Nephrology,90999,Medicaid,1,0.53,43640
+Denise Lucas,Male,1981-06-07,2025-04-15,Harlem Renal Care,90935,Medicaid,1,0.3,24160
+Michael Rocha,Male,1936-04-01,2025-04-28,Brooklyn Dialysis Center,90937,Uninsured,1,1.13,10167
+Daniel Wiggins,Female,1946-04-03,2025-03-21,Staten Island Nephrology,90999,Private Insurance,1,0.23,16310
+Jared Moore,Male,1993-02-13,2025-03-06,Bronx Dialysis Group,90947,Private Insurance,1,0.89,60585
+Elizabeth Fox,Female,1990-03-12,2025-06-08,Staten Island Nephrology,90935,Private Insurance,1,0.68,67438
+Jaime David,Male,1997-01-27,2025-07-08,Queens Kidney Institute,90945,Medicare,0,0.92,65004
+Elizabeth Hernandez,Female,1957-08-22,2025-06-12,Bronx Dialysis Group,90999,Medicare,1,1.36,31802
+Dan Shepard,Male,1950-04-13,2025-04-16,Queens Kidney Institute,90999,Uninsured,0,1.44,64266
+Scott Barker,Female,1962-07-30,2025-04-25,Brooklyn Dialysis Center,90945,Medicare,0,0.06,74629
+Jill Henderson,Female,1963-01-15,2025-04-19,Bronx Dialysis Group,90999,Medicaid,1,0.56,59638
+Louis Moore,Female,1938-04-29,2025-06-20,Bronx Dialysis Group,90947,Private Insurance,0,1.18,56036
+Paul Riggs MD,Female,1995-02-28,2025-06-08,Brooklyn Dialysis Center,90945,Medicare,1,0.43,81568
+Michelle Hoffman,Male,1941-12-16,2025-05-01,Queens Kidney Institute,90935,Medicaid,1,0.47,59197
+Brad Walker,Female,1985-08-08,2025-07-06,Harlem Renal Care,90999,Medicare,1,0.84,23294
+Daniel Weaver,Female,1941-03-27,2025-03-16,Harlem Renal Care,90999,Medicare,1,0.76,72847
+Austin Dodson,Male,1935-03-13,2025-03-31,Queens Kidney Institute,90945,Medicaid,0,0.51,85766
+Andrea Alexander,Female,1974-12-03,2025-03-20,Harlem Renal Care,90937,Medicaid,0,0.12,95323
+Debbie Green,Male,1978-05-08,2025-07-17,Staten Island Nephrology,90999,Medicare,1,1.31,39567
+Dana Martin,Male,1998-06-26,2025-03-29,Staten Island Nephrology,90947,Medicaid,0,0.27,31319
+Karen Evans,Male,2007-03-25,2025-04-29,Bronx Dialysis Group,90935,Uninsured,1,1.01,69151
+Sandra Martin,Male,1987-09-26,2025-04-17,Bronx Dialysis Group,90999,Private Insurance,1,0.35,19661
+Gerald Miles,Male,1975-08-17,2025-03-31,Queens Kidney Institute,90947,Medicaid,1,1.02,14379
+Christy Yang,Female,1979-05-06,2025-06-27,Bronx Dialysis Group,90945,Uninsured,1,1.45,48654
+Christina Bailey,Male,1956-02-29,2025-03-18,Staten Island Nephrology,90937,Private Insurance,0,0.96,12631
+Kristin Herrera,Female,2002-10-18,2025-02-03,Staten Island Nephrology,90935,Medicare,1,0.13,51774
+Jeremy Lee,Male,1982-08-29,2025-04-03,Queens Kidney Institute,90947,Medicaid,1,0.14,44226
+Amy Bauer,Male,1967-11-30,2025-02-08,Bronx Dialysis Group,90945,Medicare,1,0.08,23726
+Michael Contreras,Female,1946-12-09,2025-06-04,Harlem Renal Care,90947,Medicare,1,0.34,19725
+Jay Copeland,Female,2004-09-25,2025-04-23,Brooklyn Dialysis Center,90945,Medicaid,0,0.06,54801
+Albert Poole,Female,2002-09-24,2025-05-12,Harlem Renal Care,90947,Uninsured,0,1.36,32296
+Benjamin Liu,Male,1986-03-24,2025-07-09,Queens Kidney Institute,90937,Medicaid,1,0.17,59212
+Jeffrey Mckay,Female,1980-12-24,2025-03-07,Harlem Renal Care,90945,Medicare,0,0.36,31090
+Samantha Lutz,Female,1964-11-07,2025-06-28,Brooklyn Dialysis Center,90935,Uninsured,0,0.95,19830
+James Smith,Male,1949-08-03,2025-07-27,Harlem Renal Care,90945,Uninsured,0,0.92,81702
+Robert Davies,Male,1964-10-02,2025-05-25,Staten Island Nephrology,90947,Medicaid,0,0.79,22203
+Melanie Torres,Female,1974-01-19,2025-07-27,Brooklyn Dialysis Center,90999,Medicare,1,1.31,54295
+Kendra Morris,Male,1995-09-20,2025-05-13,Bronx Dialysis Group,90945,Private Insurance,0,0.54,87860
+Sean Russell,Male,1939-05-19,2025-07-11,Queens Kidney Institute,90937,Medicare,1,0.2,90431
+Christopher Tate,Female,1992-10-13,2025-04-14,Staten Island Nephrology,90945,Medicaid,1,1.47,73273
+Matthew Bond,Female,2004-05-08,2025-03-20,Harlem Renal Care,90937,Medicare,1,0.06,14062
+Samantha Smith,Male,1982-10-13,2025-03-24,Brooklyn Dialysis Center,90937,Medicare,1,1.4,66534
+Melissa Thompson,Female,1943-01-26,2025-01-28,Staten Island Nephrology,90947,Private Insurance,0,1.13,95673
+Larry Manning,Male,1986-08-13,2025-07-21,Queens Kidney Institute,90945,Medicare,1,0.41,31626
+David Perry,Female,1937-08-31,2025-05-21,Bronx Dialysis Group,90947,Uninsured,1,0.51,89602
+Taylor Chandler,Male,1959-11-29,2025-05-29,Bronx Dialysis Group,90947,Private Insurance,1,1.2,66911
+Charlotte Gallegos DDS,Female,1957-07-14,2025-06-30,Brooklyn Dialysis Center,90947,Medicaid,1,0.48,30591
+Thomas Petersen,Male,1941-03-14,2025-03-18,Queens Kidney Institute,90945,Private Insurance,1,0.9,17019
+Samuel Green DDS,Female,1941-03-11,2025-05-26,Harlem Renal Care,90947,Private Insurance,1,0.06,23272
+Theresa Thomas,Female,1970-08-23,2025-06-12,Staten Island Nephrology,90947,Private Insurance,0,0.11,53397
+Meredith Walton,Female,1953-09-15,2025-03-07,Queens Kidney Institute,90999,Medicaid,0,0.21,36941
+Natalie Brown,Female,1981-04-15,2025-02-25,Brooklyn Dialysis Center,90937,Medicare,0,1.17,34901
+Holly Gallegos,Female,1943-06-03,2025-03-15,Queens Kidney Institute,90947,Medicare,0,1.02,63645
+Rebekah Hawkins,Female,1994-05-25,2025-06-21,Queens Kidney Institute,90947,Medicare,0,0.79,82628
+Daisy Villanueva,Female,2002-10-28,2025-03-15,Queens Kidney Institute,90945,Medicaid,0,0.04,80795
+David Taylor,Male,2005-09-04,2025-02-01,Bronx Dialysis Group,90999,Uninsured,0,0.39,44768
+Edward Velez,Female,1958-03-27,2025-06-29,Bronx Dialysis Group,90937,Private Insurance,1,0.3,96585
+Victoria Barr,Male,1973-10-25,2025-04-23,Brooklyn Dialysis Center,90947,Medicaid,1,1.5,46899
+Terry Bishop,Female,1952-03-10,2025-07-22,Queens Kidney Institute,90935,Private Insurance,1,1.28,48980
+Laura Garcia,Male,2000-06-19,2025-04-07,Queens Kidney Institute,90999,Medicaid,0,1.48,41135
+Nicole Rivera,Male,1942-03-14,2025-03-16,Harlem Renal Care,90947,Medicare,1,0.83,22571
+Kyle Miller,Female,1967-06-07,2025-04-06,Bronx Dialysis Group,90999,Medicaid,0,0.1,16505
+Emily Goodwin,Female,1996-09-05,2025-03-19,Bronx Dialysis Group,90999,Uninsured,1,1.24,61498
+David Green,Male,1956-11-07,2025-02-04,Harlem Renal Care,90945,Medicare,1,0.7,84943
+Robert Kelly,Female,1939-06-18,2025-06-04,Harlem Renal Care,90999,Medicaid,0,0.65,82045
+Daniel Nunez,Male,1977-08-22,2025-02-04,Brooklyn Dialysis Center,90999,Medicaid,1,0.25,74349
+Linda Cole,Female,2001-05-22,2025-05-25,Harlem Renal Care,90945,Private Insurance,0,0.38,30131
+Justin Powell,Female,1965-05-06,2025-06-11,Harlem Renal Care,90945,Medicare,0,0.89,17144
+Rachael Pollard,Male,1972-04-04,2025-06-15,Harlem Renal Care,90999,Private Insurance,0,1.24,57294
+Mario Andrews,Male,1949-02-12,2025-05-19,Brooklyn Dialysis Center,90935,Private Insurance,0,1.15,10500
+Karen Turner,Female,1962-08-15,2025-03-25,Staten Island Nephrology,90935,Uninsured,1,0.96,66047
+Ronald Zuniga,Female,1936-01-30,2025-04-18,Bronx Dialysis Group,90937,Uninsured,1,0.68,21485
+Maria Wilson,Male,1970-10-23,2025-07-05,Harlem Renal Care,90947,Uninsured,1,0.7,48607
+Joseph Martinez,Female,1935-08-02,2025-04-16,Staten Island Nephrology,90937,Private Insurance,1,1.1,96772
+Lisa Moody,Female,1937-12-03,2025-03-05,Bronx Dialysis Group,90937,Private Insurance,0,0.48,91931
+Melissa Williams,Female,2004-10-08,2025-04-17,Brooklyn Dialysis Center,90945,Uninsured,0,0.21,88671
+Jill Martin,Male,1955-10-26,2025-02-11,Queens Kidney Institute,90947,Uninsured,0,1.44,72957
+Colton Brown,Male,2004-07-09,2025-04-16,Queens Kidney Institute,90999,Private Insurance,0,1.14,36171
+Steven Tanner,Female,2002-05-11,2025-02-16,Staten Island Nephrology,90947,Uninsured,1,0.75,22712
+Bradley Smith,Male,1958-11-12,2025-06-13,Bronx Dialysis Group,90999,Uninsured,0,0.32,13373
+Wendy Murphy,Female,1970-01-24,2025-02-05,Brooklyn Dialysis Center,90935,Private Insurance,1,0.9,37125
+Samuel Tucker,Female,1937-08-24,2025-03-16,Queens Kidney Institute,90999,Medicare,0,0.65,32391
+Kevin Evans,Female,2006-09-28,2025-04-04,Queens Kidney Institute,90947,Private Insurance,0,0.6,93648
+Lori Hawkins,Male,1982-10-02,2025-04-18,Queens Kidney Institute,90999,Private Insurance,0,0.58,48248
+Robyn Lindsey,Female,1934-07-30,2025-07-15,Staten Island Nephrology,90945,Medicare,0,1.46,20739
+Katherine Perry,Female,1942-08-10,2025-05-24,Queens Kidney Institute,90945,Private Insurance,0,0.3,72071
+Robert Jackson,Female,1940-12-06,2025-03-19,Staten Island Nephrology,90935,Medicare,0,0.21,25139
+Victoria Trevino,Female,1971-07-25,2025-03-04,Bronx Dialysis Group,90999,Uninsured,0,0.91,50416
+Jimmy Robertson,Male,1961-02-16,2025-05-30,Queens Kidney Institute,90999,Private Insurance,0,0.59,62096
+Sherry Sandoval,Female,1943-10-11,2025-07-22,Staten Island Nephrology,90945,Uninsured,1,0.71,71727
+Kevin Richardson,Male,1968-08-01,2025-02-19,Queens Kidney Institute,90945,Medicare,1,0.88,74106
+Katelyn Stewart,Male,1940-09-08,2025-03-01,Staten Island Nephrology,90947,Private Insurance,0,1.08,96643
+Michael Morse,Female,2003-04-18,2025-06-03,Harlem Renal Care,90999,Uninsured,0,1.23,44734
+Lauren Stephens,Male,1937-04-03,2025-07-23,Brooklyn Dialysis Center,90999,Medicare,0,0.03,21945
+Elizabeth Smith,Female,1964-06-28,2025-04-27,Bronx Dialysis Group,90937,Uninsured,0,0.62,94130
+William Hardin,Female,2002-10-17,2025-02-03,Brooklyn Dialysis Center,90937,Medicaid,1,1.5,81319
+John King,Female,1955-02-11,2025-06-14,Staten Island Nephrology,90947,Private Insurance,0,0.69,60793
+Renee Davis,Female,1946-04-26,2025-07-27,Staten Island Nephrology,90945,Private Insurance,1,0.29,34232
+Paul Wiley,Male,1961-11-21,2025-03-27,Queens Kidney Institute,90999,Private Insurance,0,1.41,58630
+Maria Phillips,Female,1986-01-15,2025-04-21,Queens Kidney Institute,90937,Uninsured,1,0.72,59996
+Heidi Morgan,Female,1945-09-23,2025-03-11,Queens Kidney Institute,90935,Uninsured,1,1.23,58418
+Tiffany Ortiz,Male,1961-05-29,2025-04-26,Queens Kidney Institute,90935,Private Insurance,0,0.52,34455
+Robert Schwartz,Female,2006-11-27,2025-07-02,Queens Kidney Institute,90947,Medicaid,0,1.24,68428
+Kristina Young,Female,1984-05-01,2025-03-14,Staten Island Nephrology,90945,Medicaid,0,0.92,15848
+Cynthia Hensley,Male,1978-10-03,2025-01-28,Harlem Renal Care,90935,Medicaid,0,0.08,44510
+Brian Smith,Female,1991-10-17,2025-05-16,Queens Kidney Institute,90947,Medicare,0,0.01,67637
+Adam Sellers,Male,1957-12-05,2025-05-03,Bronx Dialysis Group,90947,Uninsured,0,1.13,70956
+Lauren Jarvis,Female,1957-04-15,2025-03-11,Queens Kidney Institute,90945,Medicare,0,0.98,44524
+Michael Morales,Male,1938-07-23,2025-01-28,Staten Island Nephrology,90935,Medicaid,1,1.32,39654
+Kelly Johnson,Male,1951-02-12,2025-07-13,Brooklyn Dialysis Center,90947,Uninsured,0,1.4,45200
+Paul Salazar,Female,1953-04-03,2025-02-12,Brooklyn Dialysis Center,90935,Private Insurance,0,1.39,83956
+Charles Sanders,Female,1937-10-03,2025-07-04,Queens Kidney Institute,90947,Uninsured,0,1.28,18079
+Matthew Turner DDS,Female,1953-11-13,2025-04-06,Queens Kidney Institute,90937,Medicare,1,0.24,29808
+Amanda Johnson,Female,1971-10-18,2025-07-04,Queens Kidney Institute,90937,Medicare,1,1.19,97486
+William Garcia,Male,1992-07-05,2025-05-28,Harlem Renal Care,90999,Uninsured,1,0.77,22675
+Michael Miller,Male,1965-06-03,2025-02-26,Bronx Dialysis Group,90935,Medicaid,0,0.72,21233
+Tammy Black,Male,2001-08-03,2025-02-19,Brooklyn Dialysis Center,90945,Uninsured,0,0.67,97574
+Gregory Osborne,Female,1939-02-13,2025-04-16,Queens Kidney Institute,90945,Medicare,1,0.98,55061
+Linda Jackson,Male,1959-07-03,2025-02-15,Brooklyn Dialysis Center,90935,Uninsured,1,0.24,80968
+Brittany Hoover,Female,1938-01-18,2025-07-26,Brooklyn Dialysis Center,90945,Private Insurance,0,0.33,64262
+Jack Kelly,Male,1981-03-25,2025-06-19,Bronx Dialysis Group,90937,Uninsured,1,0.62,87296
+Leslie Davies DVM,Female,1935-06-24,2025-06-29,Staten Island Nephrology,90937,Medicaid,0,0.79,39820
+John Garcia,Female,1935-09-04,2025-05-19,Brooklyn Dialysis Center,90999,Medicare,0,1.24,82561
+Andrew Smith,Male,1994-11-17,2025-05-29,Staten Island Nephrology,90999,Medicaid,0,0.49,17993
+Nicole Moore,Female,1973-08-29,2025-07-24,Brooklyn Dialysis Center,90937,Uninsured,0,1.35,60738
+Angel Norris,Female,1981-01-03,2025-03-24,Brooklyn Dialysis Center,90947,Medicaid,1,0.69,78495
+Gary Myers,Male,1974-01-27,2025-03-26,Staten Island Nephrology,90947,Private Insurance,0,0.59,64870
+Jon Smith,Male,1957-06-22,2025-06-25,Harlem Renal Care,90999,Medicare,0,0.64,80190
+Tracy Thompson,Male,1975-12-05,2025-03-29,Staten Island Nephrology,90935,Medicare,1,0.05,72236
+Rachel Mueller,Female,1969-03-13,2025-02-06,Harlem Renal Care,90937,Uninsured,1,1.49,85066
+Lindsay Davis,Female,1971-05-01,2025-05-26,Bronx Dialysis Group,90947,Uninsured,0,1.02,40886
+Kristie Floyd,Male,1976-03-10,2025-07-25,Queens Kidney Institute,90935,Medicaid,1,0.79,72424
+Caroline Savage,Male,1974-07-27,2025-05-09,Brooklyn Dialysis Center,90935,Private Insurance,1,1.01,49171
+Donald Bush,Female,1940-11-26,2025-05-01,Staten Island Nephrology,90947,Medicaid,0,0.69,20348
+Briana West,Male,1966-02-16,2025-05-15,Queens Kidney Institute,90937,Medicare,0,1.21,61747
+Samantha Evans,Female,1938-12-06,2025-02-18,Staten Island Nephrology,90935,Medicaid,0,0.1,14551
+Julia Lee,Male,1982-07-26,2025-05-28,Bronx Dialysis Group,90999,Medicare,0,1.11,75811
+Brandon Wolfe,Female,2002-08-03,2025-06-12,Bronx Dialysis Group,90937,Medicaid,0,0.21,84870
+Kendra Zamora,Female,1950-07-13,2025-03-23,Harlem Renal Care,90999,Private Insurance,1,0.36,77740
+Brenda Santos,Male,1978-01-18,2025-06-01,Staten Island Nephrology,90937,Uninsured,1,0.41,84905
+William Chang,Male,1996-10-11,2025-04-17,Bronx Dialysis Group,90999,Uninsured,0,1.46,98805
+Meghan Hardy,Female,1959-06-10,2025-04-25,Staten Island Nephrology,90945,Uninsured,1,0.22,91300
+Dorothy Holmes,Female,1992-10-18,2025-06-27,Harlem Renal Care,90999,Uninsured,0,1.27,29326
+Philip Dunlap,Female,1989-12-21,2025-02-11,Harlem Renal Care,90947,Medicare,1,1.45,25765
+Michael Goodman,Male,1979-07-02,2025-03-29,Bronx Dialysis Group,90937,Private Insurance,0,0.5,68856
+Mr. Paul Johns MD,Male,2001-06-24,2025-06-08,Bronx Dialysis Group,90945,Medicare,0,0.08,32659
+Alice Williams,Female,1976-07-18,2025-05-09,Staten Island Nephrology,90999,Medicare,0,0.28,31910
+Nathaniel Raymond,Male,1945-09-30,2025-06-16,Bronx Dialysis Group,90937,Private Insurance,1,1.44,37772
+Mr. Stephen Brown,Male,1998-04-12,2025-06-05,Harlem Renal Care,90937,Medicare,1,1.37,35260
+Laurie Gates,Male,1940-08-11,2025-03-04,Bronx Dialysis Group,90937,Private Insurance,1,0.57,26539
+Marcus Sullivan,Female,1964-08-29,2025-02-01,Queens Kidney Institute,90945,Private Insurance,1,0.7,15593
+Alex Anderson,Female,1976-06-01,2025-01-27,Queens Kidney Institute,90937,Private Insurance,1,0.62,65492
+Mr. Joseph Harrington Jr.,Male,1969-11-05,2025-06-17,Harlem Renal Care,90935,Private Insurance,1,0.44,20271
+Brett Oneal,Male,1972-06-30,2025-06-05,Queens Kidney Institute,90937,Uninsured,0,0.75,99538
+Bethany Garcia,Female,1966-01-21,2025-04-15,Queens Kidney Institute,90947,Uninsured,1,0.25,67067
+Matthew Bradshaw,Female,1996-01-04,2025-04-19,Harlem Renal Care,90937,Uninsured,0,1.38,36465
+Matthew Fitzpatrick,Male,2000-09-09,2025-03-11,Staten Island Nephrology,90935,Medicare,0,1.15,92211
+Edward Moore,Female,1958-03-18,2025-06-03,Harlem Renal Care,90937,Medicare,0,0.01,29382
+Dawn Miller,Female,1983-02-19,2025-02-23,Queens Kidney Institute,90935,Uninsured,1,0.02,87994
+Vanessa Williams,Female,1960-12-01,2025-04-16,Brooklyn Dialysis Center,90935,Private Insurance,1,0.03,43801
+Jennifer Ellis,Female,1944-11-19,2025-03-13,Harlem Renal Care,90935,Medicare,0,0.36,51910
+Dr. Angela Foster MD,Female,1999-04-09,2025-03-03,Queens Kidney Institute,90945,Uninsured,0,0.56,18783
+Joshua Clark,Female,1963-08-28,2025-03-21,Bronx Dialysis Group,90999,Medicaid,0,0.45,21406
+Justin Lopez,Male,1990-11-30,2025-03-10,Brooklyn Dialysis Center,90935,Uninsured,1,0.57,60868
+Matthew Dean,Female,1989-02-09,2025-05-22,Brooklyn Dialysis Center,90935,Medicaid,0,0.75,82923
+Claudia Smith,Female,1995-01-04,2025-05-20,Queens Kidney Institute,90999,Medicare,0,0.34,62082
+Joseph Cooper,Female,1965-10-16,2025-04-21,Queens Kidney Institute,90935,Medicare,1,1.35,82358
+Gary Smith,Male,1952-05-11,2025-03-29,Harlem Renal Care,90945,Medicare,0,0.88,52746
+John Nelson,Female,1987-06-28,2025-05-08,Brooklyn Dialysis Center,90945,Medicaid,0,0.85,46202
+David Smith,Female,1968-06-17,2025-07-09,Staten Island Nephrology,90945,Uninsured,0,1.19,78116
+Rebecca Lopez,Male,1962-03-26,2025-02-14,Staten Island Nephrology,90945,Medicare,0,0.66,70051
+Christopher Smith,Male,1951-12-13,2025-02-02,Queens Kidney Institute,90999,Uninsured,1,0.04,11620
+Austin Holland,Female,1940-02-19,2025-06-03,Bronx Dialysis Group,90947,Medicaid,1,0.83,91665
+Dr. Matthew Scott,Female,1938-04-09,2025-07-01,Bronx Dialysis Group,90937,Uninsured,0,1.16,87014
+Jamie Turner,Female,1964-10-25,2025-03-16,Harlem Renal Care,90935,Medicare,1,0.23,78493
+Timothy Atkinson,Male,1978-01-07,2025-05-07,Bronx Dialysis Group,90945,Private Insurance,0,0.14,64997
+David Neal,Female,2003-07-13,2025-04-08,Bronx Dialysis Group,90945,Private Insurance,0,0.2,24748
+Cheyenne Trevino,Male,1959-06-03,2025-06-13,Bronx Dialysis Group,90947,Uninsured,0,0.04,64321
+Jose Hicks,Female,1960-07-24,2025-05-29,Staten Island Nephrology,90935,Private Insurance,1,0.02,29613
+Barry Johns,Female,1939-02-01,2025-06-25,Bronx Dialysis Group,90935,Medicaid,0,1.03,29424
+Nancy Richardson,Male,1957-12-14,2025-04-03,Harlem Renal Care,90945,Private Insurance,1,0.74,84264
+Shari Daniels,Male,1970-07-10,2025-01-28,Harlem Renal Care,90947,Private Insurance,1,0.45,87061
+Samuel Davis,Male,1969-07-07,2025-02-27,Queens Kidney Institute,90945,Medicaid,1,0.89,86372
+Dean Rios,Male,1945-09-19,2025-02-26,Bronx Dialysis Group,90935,Medicaid,1,0.01,23133
+Laurie Johnson,Female,1970-10-19,2025-06-13,Queens Kidney Institute,90999,Uninsured,1,0.66,23845
+Melanie Smith,Female,1980-11-12,2025-06-06,Staten Island Nephrology,90937,Private Insurance,1,0.9,83752
+Paul Hurst,Male,1996-09-11,2025-06-12,Bronx Dialysis Group,90945,Medicaid,1,1.45,23237
+Aaron Garza,Female,1990-09-11,2025-03-11,Bronx Dialysis Group,90999,Medicaid,1,0.56,47498
+Sandra Miller,Female,1980-04-23,2025-05-03,Queens Kidney Institute,90935,Medicaid,0,1.02,80206
+Joseph Armstrong,Male,1970-11-12,2025-04-19,Bronx Dialysis Group,90937,Uninsured,1,1.25,55071
+Darren Hill,Male,1976-03-26,2025-07-26,Bronx Dialysis Group,90947,Medicaid,1,0.36,63856
+Anna Lopez,Male,1999-07-07,2025-06-21,Bronx Dialysis Group,90947,Medicare,1,1.49,44620
+Lori Jensen,Female,1978-11-04,2025-02-02,Staten Island Nephrology,90947,Uninsured,0,1.19,60206
+Diana Alvarado,Female,1951-01-11,2025-06-15,Staten Island Nephrology,90999,Medicare,0,1.15,95824
+John Wagner,Female,1990-02-03,2025-02-26,Harlem Renal Care,90999,Medicare,1,1.45,73646
+Francisco Morris,Female,1968-03-14,2025-04-05,Bronx Dialysis Group,90935,Medicare,0,0.39,84976
+Kenneth Yates,Male,1996-07-14,2025-02-03,Bronx Dialysis Group,90945,Uninsured,1,1.16,89817
+Micheal Jones,Male,1941-10-06,2025-06-12,Queens Kidney Institute,90935,Uninsured,0,0.44,72003
+James Finley,Male,1985-07-19,2025-04-16,Brooklyn Dialysis Center,90937,Private Insurance,1,0.51,14910
+Gary Reynolds,Male,1972-08-31,2025-02-13,Staten Island Nephrology,90947,Private Insurance,1,0.15,32570
+Ian Casey,Female,1951-11-04,2025-05-08,Queens Kidney Institute,90935,Private Insurance,0,1.22,46099
+Adam Villarreal,Male,1988-05-07,2025-07-03,Brooklyn Dialysis Center,90945,Medicare,0,1.39,62818
+Anthony Murray,Male,1993-07-05,2025-04-12,Staten Island Nephrology,90937,Medicaid,1,0.84,28855
+Chris Obrien,Female,1998-08-31,2025-04-17,Harlem Renal Care,90947,Medicaid,0,0.96,91034
+David Mendez,Female,1945-02-02,2025-03-27,Bronx Dialysis Group,90935,Medicaid,1,0.89,89777
+Duane Bullock,Female,1941-12-29,2025-05-30,Brooklyn Dialysis Center,90937,Medicaid,1,1.13,99235
+Justin Jackson,Male,1969-03-06,2025-04-19,Staten Island Nephrology,90935,Medicaid,1,0.49,62654
+Brittany Brown,Female,1963-05-01,2025-07-06,Brooklyn Dialysis Center,90945,Uninsured,1,0.9,15083
+Wendy Hurst,Female,1962-08-19,2025-02-11,Staten Island Nephrology,90935,Private Insurance,1,1.27,61877
+Jennifer Le,Male,2003-01-24,2025-01-29,Queens Kidney Institute,90999,Medicare,0,0.47,53449
+Justin Humphrey,Male,1991-06-15,2025-07-11,Queens Kidney Institute,90935,Medicaid,1,1.04,41139
+Paul Bowman,Female,1936-02-23,2025-03-15,Bronx Dialysis Group,90999,Medicaid,1,0.63,16460
+Michele Perez,Female,1979-03-22,2025-06-19,Staten Island Nephrology,90937,Medicaid,1,0.43,72287
+Sarah Salazar,Male,1964-12-08,2025-03-26,Queens Kidney Institute,90947,Medicare,1,1.43,45203
+Marcus Mitchell,Female,1972-12-08,2025-07-10,Harlem Renal Care,90937,Uninsured,1,0.61,58816
+Paul Foster,Female,2004-02-03,2025-05-08,Bronx Dialysis Group,90947,Uninsured,0,0.12,12651
+Brandon Flores,Male,1950-08-17,2025-05-08,Harlem Renal Care,90945,Medicare,1,0.34,54284
+Jordan Thomas Jr.,Female,1982-01-17,2025-04-28,Harlem Renal Care,90947,Uninsured,0,0.86,49722
+Jimmy Hines,Female,1980-01-10,2025-04-24,Staten Island Nephrology,90945,Medicare,1,0.82,50756
+Nichole Turner,Female,1949-06-15,2025-06-15,Brooklyn Dialysis Center,90937,Private Insurance,0,0.67,46745
+Cynthia Watkins,Female,1973-07-23,2025-03-18,Brooklyn Dialysis Center,90947,Medicare,0,0.31,74437
+Nancy Welch,Female,1950-02-23,2025-03-17,Staten Island Nephrology,90947,Medicaid,0,1.18,99764
+Jay Vasquez,Male,2001-07-29,2025-02-23,Brooklyn Dialysis Center,90999,Private Insurance,1,0.9,22873
+Patty Butler,Male,2000-04-29,2025-02-24,Queens Kidney Institute,90945,Private Insurance,1,1.43,39878
+Timothy Guerra,Male,1991-03-28,2025-05-30,Harlem Renal Care,90947,Medicare,1,1.3,27614
+Kevin Davis,Male,1970-02-12,2025-02-11,Harlem Renal Care,90937,Medicaid,1,1.24,49384
+Brandi Kelly,Female,1963-10-15,2025-02-23,Bronx Dialysis Group,90937,Private Insurance,1,0.56,68079
+Michael Hill,Male,1972-09-10,2025-06-15,Brooklyn Dialysis Center,90947,Private Insurance,1,0.68,52056
+Deborah Rhodes,Female,1975-11-10,2025-01-30,Queens Kidney Institute,90999,Medicare,0,1.1,45313
+Daniel Ortiz,Female,1944-02-13,2025-03-01,Queens Kidney Institute,90935,Uninsured,0,1.45,64627
+Rachel Meyer,Male,1972-03-08,2025-07-26,Bronx Dialysis Group,90945,Private Insurance,1,0.51,89295
+Madison Owens,Male,1989-08-05,2025-04-13,Staten Island Nephrology,90947,Private Insurance,0,0.07,94614
+Michael Lopez,Female,1990-04-09,2025-07-27,Brooklyn Dialysis Center,90935,Medicaid,1,0.68,21703
+Jesse Estrada,Female,2000-02-29,2025-04-03,Harlem Renal Care,90937,Private Insurance,0,1.31,34633
+Mackenzie Hernandez,Female,1962-08-20,2025-01-28,Brooklyn Dialysis Center,90945,Private Insurance,0,0.56,67896
+Felicia Chavez,Male,1944-04-19,2025-04-23,Brooklyn Dialysis Center,90947,Private Insurance,0,0.64,37707
+Christina Horn,Male,1979-01-23,2025-04-26,Brooklyn Dialysis Center,90935,Medicaid,1,0.12,63368
+Alexander Williams,Male,1991-06-24,2025-01-27,Staten Island Nephrology,90947,Medicare,0,1.04,73499
+Timothy Evans,Male,1973-09-10,2025-04-22,Bronx Dialysis Group,90937,Uninsured,0,0.34,77698
+Erica Sparks,Male,1998-04-22,2025-03-27,Brooklyn Dialysis Center,90935,Private Insurance,1,1.32,59009
+Dylan Pollard,Male,1980-01-07,2025-06-18,Bronx Dialysis Group,90937,Medicaid,0,0.8,17367
+Thomas Randolph,Male,1939-09-25,2025-02-05,Staten Island Nephrology,90937,Uninsured,1,1.08,77537
+Sandra Potter PhD,Male,1980-11-18,2025-03-06,Bronx Dialysis Group,90999,Uninsured,0,0.13,30836
+Rodney Smith,Male,1963-11-19,2025-06-08,Harlem Renal Care,90935,Uninsured,1,1.44,18600
+Catherine Stanley,Female,1961-07-16,2025-05-28,Harlem Renal Care,90937,Private Insurance,0,0.37,50779
+Cynthia Rivera,Female,1976-06-19,2025-01-29,Brooklyn Dialysis Center,90945,Medicaid,0,1.12,76426
+Ashley Mcintosh,Female,1957-02-17,2025-06-21,Brooklyn Dialysis Center,90937,Uninsured,1,0.17,62872
+Sara Kirby,Female,1963-11-04,2025-05-18,Staten Island Nephrology,90935,Medicare,1,1.4,27779
+Ryan Ellis,Male,1958-04-02,2025-04-26,Bronx Dialysis Group,90999,Uninsured,1,0.82,78719
+Eric Long,Male,1997-11-09,2025-06-01,Bronx Dialysis Group,90935,Medicare,0,0.02,84537
+Sara Harper,Male,1944-11-27,2025-03-25,Brooklyn Dialysis Center,90935,Uninsured,1,0.94,13794
+Stacy Luna,Female,1996-03-14,2025-01-30,Bronx Dialysis Group,90947,Medicare,0,0.42,32772
+Jordan Crane,Female,1996-05-11,2025-01-29,Brooklyn Dialysis Center,90999,Medicaid,0,0.8,35265
+Sandra Reyes,Female,1940-10-15,2025-03-31,Staten Island Nephrology,90935,Private Insurance,1,1.09,36309
+Jerry Norris,Male,1993-01-14,2025-02-04,Brooklyn Dialysis Center,90937,Medicare,1,0.17,17553
+Douglas Hall,Male,1973-06-13,2025-06-07,Queens Kidney Institute,90937,Medicare,0,1.06,42701
+Rachel Clark,Male,1955-11-01,2025-05-13,Harlem Renal Care,90947,Private Insurance,1,0.25,14334
+Ashley Morrison,Male,1939-09-08,2025-06-22,Queens Kidney Institute,90935,Medicare,1,1.21,69827
+Cesar Clark,Female,1986-02-03,2025-06-22,Staten Island Nephrology,90935,Private Insurance,0,0.74,16626
+Kelsey Rice,Female,1947-03-27,2025-01-29,Brooklyn Dialysis Center,90947,Medicaid,1,0.24,57235
+Lonnie Payne,Male,1954-03-27,2025-02-09,Staten Island Nephrology,90935,Medicaid,0,0.07,36097
+Linda Beasley,Male,1972-06-30,2025-04-16,Harlem Renal Care,90935,Uninsured,1,0.57,45910
+Todd Meyers,Male,1991-04-25,2025-04-01,Harlem Renal Care,90935,Uninsured,0,0.48,58280
+Erica Hudson,Female,1950-04-14,2025-06-11,Queens Kidney Institute,90945,Medicare,1,0.18,70846
+Alicia Young,Male,1976-02-03,2025-06-05,Harlem Renal Care,90937,Medicare,1,0.1,76207
+Dr. Jenna Randall DVM,Female,1983-07-06,2025-07-08,Queens Kidney Institute,90945,Private Insurance,0,0.83,62028
+Cynthia Garcia,Male,1975-09-22,2025-07-14,Queens Kidney Institute,90937,Private Insurance,1,1.11,93284
+Rebecca Miller,Male,2002-01-21,2025-04-04,Bronx Dialysis Group,90945,Uninsured,0,1.1,26236
+Valerie Young,Male,1994-09-16,2025-07-14,Harlem Renal Care,90935,Uninsured,0,0.35,99282
+William Valdez,Female,1999-06-04,2025-05-26,Brooklyn Dialysis Center,90945,Medicare,1,1.27,14005
+Jessica Harrington,Female,1972-02-18,2025-02-02,Brooklyn Dialysis Center,90937,Medicaid,1,0.74,41711
+Hannah Hancock,Male,1969-07-24,2025-02-14,Harlem Renal Care,90945,Medicare,0,1.38,58819
+Anthony Morales,Female,1940-02-27,2025-05-28,Queens Kidney Institute,90947,Medicare,0,0.76,74066
+Kristy Thomas,Female,1975-10-05,2025-06-22,Brooklyn Dialysis Center,90999,Medicare,1,0.99,87862
+Joseph Clark,Male,1995-05-20,2025-03-15,Harlem Renal Care,90945,Private Insurance,1,1.39,68471
+Christian Valdez,Female,2003-10-15,2025-01-26,Queens Kidney Institute,90945,Uninsured,1,0.35,33276
+Brenda Horn,Male,1949-12-09,2025-05-02,Harlem Renal Care,90999,Medicare,0,0.16,72204
+Patricia Brown,Female,1980-09-29,2025-07-27,Bronx Dialysis Group,90945,Uninsured,0,0.8,86923
+Gregory Vargas,Male,1981-11-03,2025-05-27,Bronx Dialysis Group,90945,Uninsured,1,1.28,82264
+James Jones,Male,1940-03-12,2025-04-15,Harlem Renal Care,90945,Medicare,0,1.25,55843
+Daniel Brown,Female,1962-01-13,2025-04-03,Harlem Renal Care,90935,Medicaid,1,0.59,55121
+Jessica Martinez,Male,1955-07-15,2025-04-22,Queens Kidney Institute,90945,Medicaid,0,1.43,31432
