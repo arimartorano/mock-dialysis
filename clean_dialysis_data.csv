@@ -1,0 +1,501 @@
+Patient_ID,Gender,Age,Facility_Name,CPT_Code,Dialysis_Type,Visit_Date,Billed_Amount,Insurance_Type,Claim_Status
+93810,Male,80,Atlanta Dialysis Center,90937,Home Hemodialysis,2024-01-01,920,Private,Pending
+24592,Female,49,Peach State Nephrology,90945,Peritoneal Dialysis,2024-01-02,1305,Medicaid,Pending
+13278,Male,50,Eastside Renal Care,90937,Home Hemodialysis,2024-01-03,335,Uninsured,Pending
+46048,Male,84,Eastside Renal Care,90945,Hemodialysis,2024-01-04,1043,Uninsured,Denied
+42098,Male,35,Atlanta Dialysis Center,90935,Hemodialysis,2024-01-05,652,Private,Paid
+39256,Female,42,Eastside Renal Care,90945,Hemodialysis,2024-01-06,372,Uninsured,Pending
+28289,Male,71,Eastside Renal Care,90935,Peritoneal Dialysis,2024-01-07,947,Uninsured,Denied
+23434,Male,75,Atlanta Dialysis Center,90945,Hemodialysis,2024-01-08,1393,Private,Denied
+98696,Male,84,Peach State Nephrology,90947,Home Hemodialysis,2024-01-09,724,Uninsured,Denied
+81482,Female,63,Peach State Nephrology,90947,Peritoneal Dialysis,2024-01-10,1298,Private,Pending
+21395,Male,41,Peach State Nephrology,90937,Home Hemodialysis,2024-01-11,1007,Medicare,Pending
+87397,Male,49,Atlanta Dialysis Center,90945,Hemodialysis,2024-01-12,860,Medicaid,Paid
+65302,Male,64,Eastside Renal Care,90945,Hemodialysis,2024-01-13,1127,Medicaid,Paid
+14165,Male,40,Peach State Nephrology,90935,Hemodialysis,2024-01-14,1255,Uninsured,Pending
+13905,Female,83,Peach State Nephrology,90937,Peritoneal Dialysis,2024-01-15,816,Uninsured,Denied
+22280,Male,44,Atlanta Dialysis Center,90945,Home Hemodialysis,2024-01-16,727,Uninsured,Denied
+38657,Female,19,Peach State Nephrology,90937,Peritoneal Dialysis,2024-01-17,459,Medicaid,Denied
+40495,Female,34,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-01-18,448,Medicare,Paid
+76237,Female,50,Eastside Renal Care,90945,Hemodialysis,2024-01-19,1075,Medicare,Denied
+88907,Male,26,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-01-20,366,Medicaid,Paid
+13478,Female,60,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-01-21,1313,Medicare,Paid
+83563,Male,65,Atlanta Dialysis Center,90945,Hemodialysis,2024-01-22,680,Medicaid,Denied
+36062,Female,56,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-01-23,357,Medicare,Denied
+95181,Female,59,Eastside Renal Care,90945,Hemodialysis,2024-01-24,641,Private,Pending
+81426,Female,43,Eastside Renal Care,90935,Hemodialysis,2024-01-25,1453,Private,Pending
+64987,Female,67,Peach State Nephrology,90937,Hemodialysis,2024-01-26,1026,Medicaid,Denied
+38893,Female,42,Eastside Renal Care,90945,Hemodialysis,2024-01-27,1495,Medicare,Paid
+68878,Female,41,Eastside Renal Care,90947,Peritoneal Dialysis,2024-01-28,1069,Uninsured,Paid
+87236,Female,30,Peach State Nephrology,90945,Hemodialysis,2024-01-29,913,Medicare,Paid
+46463,Female,77,Eastside Renal Care,90947,Hemodialysis,2024-01-30,653,Private,Paid
+10851,Male,24,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-01-31,415,Private,Paid
+30926,Male,74,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-02-01,961,Medicare,Pending
+65392,Female,53,Peach State Nephrology,90937,Home Hemodialysis,2024-02-02,752,Medicare,Denied
+54597,Female,62,Peach State Nephrology,90945,Peritoneal Dialysis,2024-02-03,586,Uninsured,Pending
+46421,Female,37,Peach State Nephrology,90935,Peritoneal Dialysis,2024-02-04,1316,Uninsured,Paid
+30379,Male,82,Atlanta Dialysis Center,90945,Home Hemodialysis,2024-02-05,610,Medicare,Paid
+38221,Female,25,Eastside Renal Care,90947,Peritoneal Dialysis,2024-02-06,507,Medicare,Paid
+54118,Male,33,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-02-07,917,Medicare,Paid
+23396,Male,31,Peach State Nephrology,90945,Peritoneal Dialysis,2024-02-08,745,Medicare,Denied
+22156,Male,32,Eastside Renal Care,90945,Peritoneal Dialysis,2024-02-09,969,Medicaid,Paid
+59797,Male,83,Eastside Renal Care,90947,Home Hemodialysis,2024-02-10,932,Medicare,Denied
+22676,Male,49,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-02-11,354,Uninsured,Paid
+57052,Female,80,Peach State Nephrology,90945,Peritoneal Dialysis,2024-02-12,1211,Private,Denied
+55082,Female,68,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-02-13,1335,Medicaid,Pending
+89131,Female,42,Eastside Renal Care,90935,Hemodialysis,2024-02-14,956,Medicare,Paid
+44671,Female,75,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-02-15,1279,Private,Denied
+15695,Female,80,Atlanta Dialysis Center,90935,Hemodialysis,2024-02-16,814,Medicaid,Pending
+70217,Male,79,Peach State Nephrology,90937,Home Hemodialysis,2024-02-17,536,Private,Paid
+80284,Female,39,Peach State Nephrology,90935,Home Hemodialysis,2024-02-18,647,Medicare,Paid
+26361,Female,75,Eastside Renal Care,90935,Peritoneal Dialysis,2024-02-19,926,Medicare,Paid
+59615,Male,75,Atlanta Dialysis Center,90937,Hemodialysis,2024-02-20,1427,Uninsured,Denied
+20328,Female,66,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-02-21,929,Medicare,Denied
+82357,Male,69,Atlanta Dialysis Center,90947,Hemodialysis,2024-02-22,663,Medicare,Pending
+48427,Female,59,Eastside Renal Care,90935,Home Hemodialysis,2024-02-23,620,Medicaid,Denied
+92397,Male,87,Eastside Renal Care,90937,Home Hemodialysis,2024-02-24,585,Uninsured,Denied
+91070,Female,32,Peach State Nephrology,90947,Hemodialysis,2024-02-25,448,Medicaid,Paid
+57400,Female,71,Peach State Nephrology,90937,Peritoneal Dialysis,2024-02-26,1407,Private,Paid
+85674,Male,77,Peach State Nephrology,90937,Peritoneal Dialysis,2024-02-27,705,Medicare,Paid
+35203,Male,25,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-02-28,1277,Private,Paid
+19116,Male,70,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-02-29,755,Medicaid,Paid
+16006,Male,77,Peach State Nephrology,90937,Home Hemodialysis,2024-03-01,1099,Medicare,Paid
+96673,Male,22,Atlanta Dialysis Center,90937,Home Hemodialysis,2024-03-02,1484,Medicare,Paid
+39871,Male,85,Peach State Nephrology,90937,Home Hemodialysis,2024-03-03,1312,Medicaid,Pending
+47930,Male,23,Eastside Renal Care,90945,Home Hemodialysis,2024-03-04,1083,Medicaid,Pending
+20458,Male,64,Peach State Nephrology,90945,Home Hemodialysis,2024-03-05,759,Medicaid,Pending
+40512,Female,72,Eastside Renal Care,90935,Peritoneal Dialysis,2024-03-06,1037,Medicaid,Pending
+23238,Female,57,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-03-07,808,Medicaid,Paid
+59823,Male,69,Peach State Nephrology,90937,Peritoneal Dialysis,2024-03-08,780,Medicare,Pending
+46434,Female,33,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-03-09,413,Medicaid,Paid
+69429,Female,30,Eastside Renal Care,90947,Home Hemodialysis,2024-03-10,1048,Medicare,Pending
+93320,Female,47,Eastside Renal Care,90945,Home Hemodialysis,2024-03-11,660,Medicare,Denied
+57819,Female,36,Eastside Renal Care,90945,Home Hemodialysis,2024-03-12,640,Medicaid,Pending
+31319,Male,34,Atlanta Dialysis Center,90945,Hemodialysis,2024-03-13,1069,Medicaid,Pending
+58520,Female,80,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-03-14,1060,Uninsured,Paid
+56566,Male,36,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-03-15,1268,Medicare,Pending
+37460,Female,75,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-03-16,748,Medicaid,Denied
+97841,Female,72,Eastside Renal Care,90937,Peritoneal Dialysis,2024-03-17,1134,Medicaid,Paid
+44993,Female,79,Eastside Renal Care,90935,Peritoneal Dialysis,2024-03-18,610,Medicaid,Paid
+99593,Male,40,Peach State Nephrology,90935,Home Hemodialysis,2024-03-19,561,Uninsured,Pending
+94939,Female,26,Peach State Nephrology,90937,Hemodialysis,2024-03-20,705,Uninsured,Paid
+19358,Male,29,Atlanta Dialysis Center,90935,Hemodialysis,2024-03-21,442,Private,Paid
+89840,Female,18,Eastside Renal Care,90947,Hemodialysis,2024-03-22,641,Medicare,Paid
+93227,Male,75,Eastside Renal Care,90935,Home Hemodialysis,2024-03-23,1424,Private,Paid
+32431,Female,18,Eastside Renal Care,90947,Peritoneal Dialysis,2024-03-24,543,Medicaid,Paid
+80010,Male,51,Peach State Nephrology,90947,Home Hemodialysis,2024-03-25,789,Uninsured,Paid
+42087,Male,65,Peach State Nephrology,90947,Home Hemodialysis,2024-03-26,311,Uninsured,Denied
+31417,Female,18,Eastside Renal Care,90945,Peritoneal Dialysis,2024-03-27,860,Private,Pending
+70589,Male,33,Eastside Renal Care,90935,Hemodialysis,2024-03-28,341,Uninsured,Denied
+59735,Female,78,Eastside Renal Care,90937,Hemodialysis,2024-03-29,977,Medicaid,Paid
+45382,Female,81,Peach State Nephrology,90937,Home Hemodialysis,2024-03-30,893,Uninsured,Paid
+93886,Female,80,Eastside Renal Care,90935,Hemodialysis,2024-03-31,1481,Private,Pending
+83000,Female,86,Eastside Renal Care,90945,Home Hemodialysis,2024-04-01,433,Medicaid,Denied
+38785,Female,39,Atlanta Dialysis Center,90945,Home Hemodialysis,2024-04-02,1390,Private,Pending
+99733,Female,84,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-04-03,1330,Uninsured,Denied
+52504,Female,43,Peach State Nephrology,90935,Peritoneal Dialysis,2024-04-04,1247,Private,Paid
+17331,Female,33,Eastside Renal Care,90935,Peritoneal Dialysis,2024-04-05,372,Private,Pending
+40021,Female,68,Eastside Renal Care,90937,Home Hemodialysis,2024-04-06,698,Medicare,Pending
+14207,Female,74,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-04-07,877,Uninsured,Paid
+51347,Female,46,Peach State Nephrology,90945,Hemodialysis,2024-04-08,1158,Uninsured,Pending
+62581,Male,86,Atlanta Dialysis Center,90935,Hemodialysis,2024-04-09,429,Private,Denied
+45093,Male,64,Atlanta Dialysis Center,90937,Home Hemodialysis,2024-04-10,1230,Medicare,Denied
+18675,Female,79,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-04-11,565,Uninsured,Denied
+37653,Female,86,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-04-12,1092,Medicaid,Denied
+84341,Female,33,Eastside Renal Care,90937,Home Hemodialysis,2024-04-13,552,Private,Paid
+51245,Female,65,Eastside Renal Care,90947,Home Hemodialysis,2024-04-14,1121,Uninsured,Pending
+37869,Female,56,Atlanta Dialysis Center,90937,Hemodialysis,2024-04-15,463,Medicaid,Denied
+95909,Female,50,Peach State Nephrology,90937,Hemodialysis,2024-04-16,394,Uninsured,Paid
+75435,Female,40,Peach State Nephrology,90935,Peritoneal Dialysis,2024-04-17,1132,Medicaid,Pending
+61856,Female,27,Peach State Nephrology,90935,Home Hemodialysis,2024-04-18,1433,Private,Pending
+94259,Male,86,Peach State Nephrology,90947,Home Hemodialysis,2024-04-19,635,Uninsured,Paid
+70142,Female,51,Atlanta Dialysis Center,90935,Hemodialysis,2024-04-20,1121,Uninsured,Paid
+28726,Male,69,Eastside Renal Care,90935,Home Hemodialysis,2024-04-21,537,Medicare,Denied
+44718,Female,27,Peach State Nephrology,90937,Hemodialysis,2024-04-22,680,Private,Pending
+28301,Female,36,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-04-23,1198,Medicaid,Pending
+42325,Male,75,Peach State Nephrology,90935,Hemodialysis,2024-04-24,782,Uninsured,Paid
+83579,Female,18,Peach State Nephrology,90945,Home Hemodialysis,2024-04-25,1201,Uninsured,Pending
+80644,Male,86,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-04-26,1348,Medicaid,Denied
+44438,Female,21,Eastside Renal Care,90935,Hemodialysis,2024-04-27,1440,Private,Pending
+86622,Female,33,Eastside Renal Care,90947,Hemodialysis,2024-04-28,781,Medicare,Paid
+66155,Male,41,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-04-29,1216,Medicare,Paid
+86484,Female,19,Eastside Renal Care,90947,Peritoneal Dialysis,2024-04-30,1293,Uninsured,Denied
+62350,Male,49,Atlanta Dialysis Center,90945,Hemodialysis,2024-05-01,1263,Medicaid,Denied
+57447,Female,41,Atlanta Dialysis Center,90937,Home Hemodialysis,2024-05-02,836,Uninsured,Pending
+38746,Male,29,Atlanta Dialysis Center,90935,Hemodialysis,2024-05-03,1402,Medicaid,Pending
+28131,Male,67,Eastside Renal Care,90935,Peritoneal Dialysis,2024-05-04,1496,Medicare,Paid
+76784,Female,52,Atlanta Dialysis Center,90935,Hemodialysis,2024-05-05,1335,Private,Denied
+74686,Female,50,Peach State Nephrology,90945,Peritoneal Dialysis,2024-05-06,427,Medicaid,Denied
+21915,Male,50,Eastside Renal Care,90947,Peritoneal Dialysis,2024-05-07,391,Medicare,Denied
+16175,Female,78,Eastside Renal Care,90937,Home Hemodialysis,2024-05-08,842,Uninsured,Pending
+24371,Female,68,Eastside Renal Care,90945,Peritoneal Dialysis,2024-05-09,1145,Medicaid,Denied
+30033,Female,60,Eastside Renal Care,90947,Peritoneal Dialysis,2024-05-10,1288,Private,Paid
+92240,Male,29,Peach State Nephrology,90945,Home Hemodialysis,2024-05-11,746,Uninsured,Paid
+30969,Male,84,Eastside Renal Care,90937,Peritoneal Dialysis,2024-05-12,689,Uninsured,Pending
+99192,Male,82,Eastside Renal Care,90947,Home Hemodialysis,2024-05-13,971,Medicare,Pending
+65333,Male,50,Atlanta Dialysis Center,90945,Home Hemodialysis,2024-05-14,342,Medicaid,Denied
+88172,Male,57,Eastside Renal Care,90937,Peritoneal Dialysis,2024-05-15,553,Uninsured,Pending
+18326,Male,60,Peach State Nephrology,90935,Peritoneal Dialysis,2024-05-16,1453,Private,Paid
+60432,Male,61,Peach State Nephrology,90937,Hemodialysis,2024-05-17,1383,Medicaid,Denied
+60019,Male,46,Peach State Nephrology,90935,Home Hemodialysis,2024-05-18,962,Private,Paid
+88104,Male,30,Peach State Nephrology,90945,Hemodialysis,2024-05-19,766,Uninsured,Denied
+71348,Female,29,Eastside Renal Care,90947,Peritoneal Dialysis,2024-05-20,586,Private,Pending
+79352,Male,63,Eastside Renal Care,90947,Hemodialysis,2024-05-21,1310,Medicare,Denied
+42953,Female,19,Peach State Nephrology,90945,Home Hemodialysis,2024-05-22,1077,Private,Denied
+82512,Female,52,Peach State Nephrology,90947,Hemodialysis,2024-05-23,644,Medicaid,Paid
+11504,Female,25,Eastside Renal Care,90947,Home Hemodialysis,2024-05-24,941,Private,Paid
+99166,Male,43,Peach State Nephrology,90935,Peritoneal Dialysis,2024-05-25,681,Private,Denied
+25014,Male,51,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-05-26,989,Medicare,Pending
+99353,Male,24,Peach State Nephrology,90937,Home Hemodialysis,2024-05-27,1379,Private,Pending
+80381,Male,85,Peach State Nephrology,90935,Peritoneal Dialysis,2024-05-28,756,Private,Paid
+44973,Female,75,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-05-29,1282,Uninsured,Pending
+94012,Male,46,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-05-30,382,Uninsured,Paid
+54587,Male,53,Eastside Renal Care,90937,Peritoneal Dialysis,2024-05-31,1422,Medicaid,Pending
+24621,Male,38,Eastside Renal Care,90937,Home Hemodialysis,2024-06-01,448,Uninsured,Denied
+48469,Male,53,Atlanta Dialysis Center,90945,Hemodialysis,2024-06-02,1479,Uninsured,Paid
+66985,Male,27,Atlanta Dialysis Center,90937,Hemodialysis,2024-06-03,489,Uninsured,Paid
+30730,Female,41,Eastside Renal Care,90935,Peritoneal Dialysis,2024-06-04,1182,Uninsured,Denied
+69470,Male,81,Peach State Nephrology,90937,Hemodialysis,2024-06-05,562,Medicare,Paid
+10425,Female,66,Atlanta Dialysis Center,90935,Hemodialysis,2024-06-06,1403,Uninsured,Pending
+44522,Male,53,Eastside Renal Care,90935,Peritoneal Dialysis,2024-06-07,699,Medicare,Pending
+75612,Female,41,Peach State Nephrology,90937,Peritoneal Dialysis,2024-06-08,1063,Medicare,Paid
+33416,Male,40,Atlanta Dialysis Center,90945,Hemodialysis,2024-06-09,908,Uninsured,Pending
+76542,Male,79,Peach State Nephrology,90947,Home Hemodialysis,2024-06-10,1084,Private,Paid
+23947,Female,54,Eastside Renal Care,90937,Peritoneal Dialysis,2024-06-11,400,Medicare,Denied
+91959,Female,29,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-06-12,1119,Private,Paid
+49117,Female,72,Peach State Nephrology,90935,Hemodialysis,2024-06-13,1119,Private,Denied
+93748,Male,30,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-06-14,719,Uninsured,Pending
+76540,Female,40,Peach State Nephrology,90945,Home Hemodialysis,2024-06-15,423,Medicaid,Denied
+89818,Male,47,Eastside Renal Care,90945,Peritoneal Dialysis,2024-06-16,721,Uninsured,Pending
+36071,Male,34,Eastside Renal Care,90935,Hemodialysis,2024-06-17,1386,Medicaid,Paid
+30032,Female,79,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-06-18,1067,Medicaid,Pending
+59009,Female,30,Peach State Nephrology,90945,Hemodialysis,2024-06-19,782,Uninsured,Paid
+31174,Male,76,Atlanta Dialysis Center,90947,Hemodialysis,2024-06-20,818,Uninsured,Paid
+80697,Male,36,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-06-21,454,Medicaid,Denied
+79514,Female,66,Peach State Nephrology,90935,Home Hemodialysis,2024-06-22,391,Uninsured,Denied
+10074,Female,29,Peach State Nephrology,90935,Hemodialysis,2024-06-23,1281,Medicaid,Denied
+88504,Female,78,Peach State Nephrology,90945,Hemodialysis,2024-06-24,754,Private,Denied
+52487,Male,36,Eastside Renal Care,90937,Home Hemodialysis,2024-06-25,897,Uninsured,Pending
+74042,Male,26,Atlanta Dialysis Center,90945,Hemodialysis,2024-06-26,809,Private,Pending
+12552,Male,88,Atlanta Dialysis Center,90937,Hemodialysis,2024-06-27,685,Medicare,Pending
+24662,Male,45,Eastside Renal Care,90937,Home Hemodialysis,2024-06-28,704,Private,Paid
+57576,Male,69,Peach State Nephrology,90937,Home Hemodialysis,2024-06-29,545,Private,Pending
+50306,Male,33,Eastside Renal Care,90935,Home Hemodialysis,2024-06-30,1041,Medicaid,Pending
+41385,Female,86,Eastside Renal Care,90947,Home Hemodialysis,2024-07-01,960,Private,Pending
+17592,Male,29,Eastside Renal Care,90945,Peritoneal Dialysis,2024-07-02,949,Uninsured,Denied
+41571,Male,42,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-07-03,1200,Medicaid,Pending
+84364,Male,69,Eastside Renal Care,90945,Peritoneal Dialysis,2024-07-04,364,Medicare,Paid
+20322,Female,70,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-07-05,1336,Uninsured,Denied
+21226,Male,40,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-07-06,512,Medicare,Paid
+73699,Male,33,Atlanta Dialysis Center,90947,Hemodialysis,2024-07-07,541,Private,Pending
+19071,Female,74,Peach State Nephrology,90935,Peritoneal Dialysis,2024-07-08,792,Uninsured,Denied
+79822,Male,56,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-07-09,637,Uninsured,Paid
+26483,Male,70,Atlanta Dialysis Center,90935,Hemodialysis,2024-07-10,472,Medicare,Pending
+26828,Male,59,Peach State Nephrology,90935,Hemodialysis,2024-07-11,971,Uninsured,Paid
+96474,Male,75,Atlanta Dialysis Center,90947,Hemodialysis,2024-07-12,463,Uninsured,Paid
+72296,Male,56,Eastside Renal Care,90937,Home Hemodialysis,2024-07-13,764,Uninsured,Paid
+82063,Female,31,Eastside Renal Care,90935,Hemodialysis,2024-07-14,1294,Private,Pending
+31643,Female,22,Atlanta Dialysis Center,90937,Hemodialysis,2024-07-15,796,Medicare,Pending
+44741,Female,52,Peach State Nephrology,90945,Peritoneal Dialysis,2024-07-16,999,Uninsured,Paid
+79163,Male,35,Eastside Renal Care,90935,Hemodialysis,2024-07-17,694,Medicaid,Denied
+89507,Male,26,Peach State Nephrology,90947,Home Hemodialysis,2024-07-18,1002,Medicaid,Denied
+65461,Male,75,Peach State Nephrology,90945,Hemodialysis,2024-07-19,607,Medicaid,Pending
+37760,Female,34,Eastside Renal Care,90945,Home Hemodialysis,2024-07-20,482,Medicaid,Pending
+80686,Male,24,Peach State Nephrology,90947,Hemodialysis,2024-07-21,928,Private,Pending
+36365,Male,63,Eastside Renal Care,90935,Hemodialysis,2024-07-22,809,Uninsured,Pending
+50857,Female,30,Peach State Nephrology,90935,Hemodialysis,2024-07-23,845,Medicare,Pending
+62296,Male,57,Eastside Renal Care,90945,Hemodialysis,2024-07-24,923,Uninsured,Denied
+98039,Female,59,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-07-25,893,Private,Pending
+95180,Female,26,Eastside Renal Care,90937,Home Hemodialysis,2024-07-26,1043,Medicaid,Paid
+58944,Female,67,Eastside Renal Care,90947,Peritoneal Dialysis,2024-07-27,853,Private,Paid
+67422,Male,44,Eastside Renal Care,90937,Home Hemodialysis,2024-07-28,320,Uninsured,Denied
+77839,Male,83,Eastside Renal Care,90935,Hemodialysis,2024-07-29,853,Medicare,Paid
+69177,Male,22,Peach State Nephrology,90945,Peritoneal Dialysis,2024-07-30,696,Private,Denied
+25860,Male,46,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-07-31,924,Medicare,Denied
+42493,Male,54,Eastside Renal Care,90935,Peritoneal Dialysis,2024-08-01,404,Private,Paid
+39451,Male,55,Peach State Nephrology,90935,Hemodialysis,2024-08-02,491,Medicare,Pending
+18392,Male,25,Atlanta Dialysis Center,90945,Home Hemodialysis,2024-08-03,316,Medicare,Paid
+54313,Female,82,Atlanta Dialysis Center,90945,Hemodialysis,2024-08-04,1443,Medicaid,Paid
+12757,Male,34,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-08-05,692,Medicare,Denied
+87110,Female,88,Atlanta Dialysis Center,90947,Hemodialysis,2024-08-06,724,Medicaid,Paid
+82603,Male,62,Eastside Renal Care,90947,Hemodialysis,2024-08-07,428,Uninsured,Denied
+40161,Male,21,Eastside Renal Care,90945,Home Hemodialysis,2024-08-08,1453,Uninsured,Pending
+87128,Male,53,Peach State Nephrology,90937,Home Hemodialysis,2024-08-09,871,Medicaid,Pending
+38864,Female,87,Peach State Nephrology,90947,Peritoneal Dialysis,2024-08-10,328,Medicaid,Pending
+10942,Female,48,Peach State Nephrology,90945,Hemodialysis,2024-08-11,1420,Private,Paid
+19305,Female,36,Atlanta Dialysis Center,90935,Hemodialysis,2024-08-12,1333,Private,Denied
+92719,Female,78,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-08-13,541,Private,Pending
+17716,Male,71,Eastside Renal Care,90937,Hemodialysis,2024-08-14,531,Uninsured,Denied
+40007,Female,56,Atlanta Dialysis Center,90937,Hemodialysis,2024-08-15,1088,Private,Denied
+18834,Male,36,Atlanta Dialysis Center,90937,Hemodialysis,2024-08-16,1014,Medicare,Pending
+14117,Male,56,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-08-17,1058,Medicare,Pending
+53309,Female,84,Peach State Nephrology,90947,Peritoneal Dialysis,2024-08-18,1101,Private,Denied
+19287,Female,62,Peach State Nephrology,90947,Peritoneal Dialysis,2024-08-19,1075,Medicare,Pending
+77391,Female,30,Eastside Renal Care,90935,Hemodialysis,2024-08-20,1025,Uninsured,Denied
+41195,Female,75,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-08-21,499,Medicare,Denied
+46500,Female,37,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-08-22,1244,Uninsured,Pending
+97684,Female,89,Eastside Renal Care,90935,Home Hemodialysis,2024-08-23,378,Medicaid,Paid
+73624,Female,78,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-08-24,1255,Medicaid,Pending
+38080,Female,56,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-08-25,1155,Medicaid,Paid
+80678,Male,18,Peach State Nephrology,90947,Hemodialysis,2024-08-26,1496,Medicaid,Denied
+27342,Female,20,Eastside Renal Care,90935,Peritoneal Dialysis,2024-08-27,766,Medicare,Denied
+84847,Female,79,Eastside Renal Care,90947,Hemodialysis,2024-08-28,880,Private,Paid
+85525,Male,80,Eastside Renal Care,90937,Hemodialysis,2024-08-29,1239,Medicare,Denied
+71953,Female,42,Eastside Renal Care,90935,Home Hemodialysis,2024-08-30,748,Uninsured,Paid
+41850,Male,73,Peach State Nephrology,90945,Home Hemodialysis,2024-08-31,386,Medicare,Paid
+71993,Male,50,Peach State Nephrology,90937,Home Hemodialysis,2024-09-01,400,Medicare,Denied
+63354,Female,55,Atlanta Dialysis Center,90945,Home Hemodialysis,2024-09-02,1331,Uninsured,Paid
+34957,Male,23,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-09-03,1144,Medicaid,Pending
+22363,Male,75,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-09-04,386,Medicaid,Pending
+22704,Male,61,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-09-05,342,Medicaid,Denied
+96374,Male,62,Peach State Nephrology,90947,Home Hemodialysis,2024-09-06,707,Private,Denied
+66498,Female,49,Eastside Renal Care,90945,Peritoneal Dialysis,2024-09-07,963,Uninsured,Paid
+56438,Male,62,Peach State Nephrology,90935,Hemodialysis,2024-09-08,1340,Uninsured,Paid
+65519,Female,78,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-09-09,447,Medicare,Paid
+63883,Male,64,Peach State Nephrology,90935,Peritoneal Dialysis,2024-09-10,576,Private,Paid
+71213,Male,38,Eastside Renal Care,90937,Home Hemodialysis,2024-09-11,531,Medicaid,Pending
+17100,Male,53,Eastside Renal Care,90947,Peritoneal Dialysis,2024-09-12,665,Private,Pending
+98259,Male,36,Peach State Nephrology,90945,Hemodialysis,2024-09-13,735,Uninsured,Denied
+95649,Female,37,Peach State Nephrology,90947,Hemodialysis,2024-09-14,698,Uninsured,Paid
+94696,Female,74,Peach State Nephrology,90947,Home Hemodialysis,2024-09-15,798,Medicare,Paid
+22899,Male,35,Atlanta Dialysis Center,90947,Hemodialysis,2024-09-16,839,Medicare,Denied
+17944,Male,64,Peach State Nephrology,90935,Peritoneal Dialysis,2024-09-17,862,Uninsured,Paid
+62772,Female,66,Peach State Nephrology,90945,Hemodialysis,2024-09-18,741,Medicaid,Paid
+54473,Male,31,Peach State Nephrology,90945,Home Hemodialysis,2024-09-19,1072,Medicaid,Paid
+24322,Male,32,Eastside Renal Care,90947,Peritoneal Dialysis,2024-09-20,649,Private,Paid
+42591,Male,48,Eastside Renal Care,90935,Home Hemodialysis,2024-09-21,819,Uninsured,Paid
+35112,Female,18,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-09-22,437,Uninsured,Denied
+34931,Female,71,Atlanta Dialysis Center,90945,Hemodialysis,2024-09-23,1291,Medicaid,Paid
+80292,Female,20,Eastside Renal Care,90935,Home Hemodialysis,2024-09-24,667,Medicaid,Denied
+68800,Male,33,Eastside Renal Care,90935,Home Hemodialysis,2024-09-25,659,Uninsured,Paid
+28373,Male,74,Eastside Renal Care,90935,Peritoneal Dialysis,2024-09-26,1220,Medicare,Pending
+65296,Female,29,Peach State Nephrology,90937,Home Hemodialysis,2024-09-27,628,Uninsured,Pending
+34050,Female,33,Peach State Nephrology,90947,Peritoneal Dialysis,2024-09-28,1261,Uninsured,Pending
+46509,Female,89,Eastside Renal Care,90945,Peritoneal Dialysis,2024-09-29,762,Medicaid,Pending
+70637,Female,41,Peach State Nephrology,90945,Peritoneal Dialysis,2024-09-30,1245,Medicaid,Denied
+42742,Male,45,Peach State Nephrology,90937,Peritoneal Dialysis,2024-10-01,1262,Medicare,Denied
+19880,Female,25,Atlanta Dialysis Center,90947,Hemodialysis,2024-10-02,1135,Medicare,Paid
+68082,Male,53,Eastside Renal Care,90945,Peritoneal Dialysis,2024-10-03,468,Private,Pending
+82132,Female,25,Eastside Renal Care,90935,Home Hemodialysis,2024-10-04,516,Uninsured,Denied
+22833,Male,75,Peach State Nephrology,90945,Hemodialysis,2024-10-05,677,Medicaid,Paid
+16630,Female,77,Eastside Renal Care,90935,Home Hemodialysis,2024-10-06,418,Medicare,Paid
+95477,Female,67,Atlanta Dialysis Center,90937,Hemodialysis,2024-10-07,489,Private,Denied
+80855,Female,45,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-10-08,1066,Private,Pending
+11934,Female,58,Atlanta Dialysis Center,90945,Hemodialysis,2024-10-09,669,Medicaid,Paid
+22224,Male,81,Eastside Renal Care,90945,Hemodialysis,2024-10-10,448,Medicaid,Pending
+40982,Female,44,Eastside Renal Care,90945,Home Hemodialysis,2024-10-11,951,Private,Pending
+31798,Male,80,Eastside Renal Care,90937,Home Hemodialysis,2024-10-12,1069,Medicare,Pending
+63269,Male,34,Eastside Renal Care,90937,Peritoneal Dialysis,2024-10-13,673,Private,Paid
+73653,Male,50,Eastside Renal Care,90947,Hemodialysis,2024-10-14,1080,Uninsured,Pending
+73092,Male,46,Atlanta Dialysis Center,90945,Hemodialysis,2024-10-15,459,Uninsured,Paid
+38016,Female,30,Peach State Nephrology,90935,Hemodialysis,2024-10-16,650,Medicaid,Pending
+62565,Male,63,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-10-17,1191,Medicare,Paid
+17685,Male,52,Eastside Renal Care,90945,Peritoneal Dialysis,2024-10-18,822,Medicare,Pending
+31579,Male,23,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2024-10-19,821,Uninsured,Denied
+59672,Female,86,Eastside Renal Care,90937,Peritoneal Dialysis,2024-10-20,1082,Private,Pending
+10282,Female,64,Eastside Renal Care,90947,Peritoneal Dialysis,2024-10-21,572,Medicaid,Pending
+61173,Female,42,Atlanta Dialysis Center,90937,Home Hemodialysis,2024-10-22,1235,Private,Paid
+44760,Female,83,Eastside Renal Care,90937,Hemodialysis,2024-10-23,482,Private,Paid
+69638,Male,27,Peach State Nephrology,90935,Hemodialysis,2024-10-24,787,Private,Pending
+47388,Male,73,Eastside Renal Care,90935,Hemodialysis,2024-10-25,1145,Medicare,Denied
+65444,Female,47,Peach State Nephrology,90947,Hemodialysis,2024-10-26,423,Uninsured,Denied
+82845,Male,22,Peach State Nephrology,90945,Hemodialysis,2024-10-27,1284,Medicare,Paid
+96752,Male,50,Eastside Renal Care,90937,Hemodialysis,2024-10-28,1089,Uninsured,Denied
+73788,Male,82,Atlanta Dialysis Center,90947,Hemodialysis,2024-10-29,713,Medicaid,Pending
+30289,Female,35,Peach State Nephrology,90935,Hemodialysis,2024-10-30,1495,Medicaid,Paid
+34890,Female,66,Atlanta Dialysis Center,90937,Home Hemodialysis,2024-10-31,985,Private,Pending
+48890,Male,28,Peach State Nephrology,90945,Hemodialysis,2024-11-01,412,Uninsured,Paid
+38534,Female,43,Eastside Renal Care,90935,Home Hemodialysis,2024-11-02,1187,Uninsured,Paid
+17665,Female,80,Eastside Renal Care,90935,Peritoneal Dialysis,2024-11-03,421,Uninsured,Paid
+85914,Female,76,Peach State Nephrology,90935,Hemodialysis,2024-11-04,338,Private,Paid
+81066,Female,44,Eastside Renal Care,90947,Peritoneal Dialysis,2024-11-05,796,Private,Denied
+17989,Female,66,Peach State Nephrology,90945,Peritoneal Dialysis,2024-11-06,1079,Medicaid,Pending
+51104,Male,50,Eastside Renal Care,90937,Peritoneal Dialysis,2024-11-07,1242,Medicare,Pending
+17492,Female,18,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-11-08,448,Uninsured,Pending
+16572,Male,38,Eastside Renal Care,90947,Peritoneal Dialysis,2024-11-09,1321,Uninsured,Paid
+86569,Male,72,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-11-10,960,Medicare,Denied
+72493,Female,23,Eastside Renal Care,90935,Peritoneal Dialysis,2024-11-11,601,Uninsured,Pending
+75909,Male,86,Atlanta Dialysis Center,90945,Hemodialysis,2024-11-12,537,Private,Denied
+79615,Male,22,Eastside Renal Care,90947,Hemodialysis,2024-11-13,946,Private,Paid
+30635,Male,20,Atlanta Dialysis Center,90937,Home Hemodialysis,2024-11-14,962,Uninsured,Pending
+17455,Female,70,Peach State Nephrology,90945,Home Hemodialysis,2024-11-15,535,Private,Denied
+76562,Female,40,Peach State Nephrology,90937,Hemodialysis,2024-11-16,502,Private,Paid
+20500,Male,70,Atlanta Dialysis Center,90945,Home Hemodialysis,2024-11-17,555,Uninsured,Denied
+34356,Female,54,Eastside Renal Care,90937,Hemodialysis,2024-11-18,897,Medicaid,Pending
+18981,Female,34,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2024-11-19,961,Medicare,Pending
+87992,Female,18,Eastside Renal Care,90947,Peritoneal Dialysis,2024-11-20,534,Private,Paid
+18907,Female,68,Peach State Nephrology,90937,Home Hemodialysis,2024-11-21,833,Medicaid,Paid
+98501,Male,62,Eastside Renal Care,90945,Hemodialysis,2024-11-22,1159,Private,Paid
+40828,Male,21,Peach State Nephrology,90947,Hemodialysis,2024-11-23,1069,Private,Denied
+62923,Female,79,Eastside Renal Care,90947,Home Hemodialysis,2024-11-24,840,Medicare,Denied
+25713,Female,82,Eastside Renal Care,90945,Hemodialysis,2024-11-25,512,Private,Denied
+84668,Male,49,Eastside Renal Care,90937,Peritoneal Dialysis,2024-11-26,762,Medicare,Paid
+42271,Male,51,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-11-27,735,Medicare,Pending
+85880,Female,89,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-11-28,582,Medicare,Pending
+87924,Male,56,Peach State Nephrology,90937,Hemodialysis,2024-11-29,387,Medicaid,Denied
+15209,Female,43,Peach State Nephrology,90947,Home Hemodialysis,2024-11-30,1367,Uninsured,Denied
+91183,Female,51,Atlanta Dialysis Center,90947,Hemodialysis,2024-12-01,760,Medicaid,Pending
+20745,Male,71,Peach State Nephrology,90947,Hemodialysis,2024-12-02,577,Uninsured,Pending
+64948,Male,20,Atlanta Dialysis Center,90947,Hemodialysis,2024-12-03,720,Uninsured,Denied
+96163,Female,67,Eastside Renal Care,90937,Hemodialysis,2024-12-04,995,Medicare,Denied
+86503,Female,29,Peach State Nephrology,90947,Hemodialysis,2024-12-05,814,Private,Pending
+84085,Male,82,Peach State Nephrology,90945,Home Hemodialysis,2024-12-06,1002,Medicare,Paid
+78522,Female,71,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2024-12-07,318,Private,Denied
+51467,Male,22,Peach State Nephrology,90935,Peritoneal Dialysis,2024-12-08,322,Uninsured,Pending
+44179,Female,74,Peach State Nephrology,90947,Home Hemodialysis,2024-12-09,712,Medicare,Pending
+36772,Male,34,Eastside Renal Care,90937,Home Hemodialysis,2024-12-10,1353,Private,Pending
+97782,Male,64,Peach State Nephrology,90935,Peritoneal Dialysis,2024-12-11,407,Medicaid,Pending
+51180,Male,40,Eastside Renal Care,90937,Peritoneal Dialysis,2024-12-12,1451,Private,Paid
+41285,Female,31,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-12-13,1434,Medicare,Pending
+44814,Female,83,Peach State Nephrology,90935,Peritoneal Dialysis,2024-12-14,435,Medicaid,Denied
+61876,Male,68,Eastside Renal Care,90937,Peritoneal Dialysis,2024-12-15,661,Private,Paid
+27154,Female,55,Atlanta Dialysis Center,90937,Hemodialysis,2024-12-16,428,Private,Pending
+98039,Male,81,Peach State Nephrology,90947,Home Hemodialysis,2024-12-17,814,Private,Paid
+94607,Male,55,Atlanta Dialysis Center,90945,Hemodialysis,2024-12-18,748,Private,Denied
+49321,Female,67,Peach State Nephrology,90937,Peritoneal Dialysis,2024-12-19,1427,Private,Pending
+69929,Female,47,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-12-20,1173,Medicaid,Denied
+51441,Male,68,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2024-12-21,772,Uninsured,Pending
+19508,Female,80,Eastside Renal Care,90947,Hemodialysis,2024-12-22,1333,Medicaid,Pending
+11220,Female,69,Atlanta Dialysis Center,90945,Hemodialysis,2024-12-23,601,Medicaid,Pending
+70068,Male,55,Peach State Nephrology,90935,Peritoneal Dialysis,2024-12-24,530,Medicaid,Pending
+91416,Male,47,Peach State Nephrology,90947,Hemodialysis,2024-12-25,1222,Uninsured,Pending
+83792,Female,68,Eastside Renal Care,90947,Hemodialysis,2024-12-26,1389,Medicare,Paid
+23104,Male,22,Peach State Nephrology,90945,Peritoneal Dialysis,2024-12-27,1236,Uninsured,Pending
+19602,Male,46,Peach State Nephrology,90945,Hemodialysis,2024-12-28,411,Medicaid,Pending
+80468,Female,21,Peach State Nephrology,90947,Home Hemodialysis,2024-12-29,1336,Private,Paid
+37938,Male,27,Atlanta Dialysis Center,90935,Home Hemodialysis,2024-12-30,799,Private,Paid
+76307,Male,73,Atlanta Dialysis Center,90947,Home Hemodialysis,2024-12-31,1231,Medicaid,Paid
+44760,Female,34,Peach State Nephrology,90945,Home Hemodialysis,2025-01-01,897,Private,Paid
+27361,Female,34,Eastside Renal Care,90935,Peritoneal Dialysis,2025-01-02,533,Medicaid,Paid
+55745,Male,86,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2025-01-03,901,Private,Paid
+19016,Male,51,Eastside Renal Care,90935,Peritoneal Dialysis,2025-01-04,613,Uninsured,Pending
+42018,Female,23,Peach State Nephrology,90937,Home Hemodialysis,2025-01-05,865,Medicare,Pending
+58434,Female,70,Peach State Nephrology,90945,Home Hemodialysis,2025-01-06,1335,Medicare,Denied
+47353,Female,83,Atlanta Dialysis Center,90945,Hemodialysis,2025-01-07,508,Uninsured,Pending
+30676,Female,60,Peach State Nephrology,90947,Hemodialysis,2025-01-08,1337,Uninsured,Pending
+67433,Male,40,Atlanta Dialysis Center,90945,Home Hemodialysis,2025-01-09,1343,Medicaid,Paid
+81200,Female,72,Peach State Nephrology,90945,Home Hemodialysis,2025-01-10,886,Medicaid,Paid
+49651,Female,33,Peach State Nephrology,90937,Home Hemodialysis,2025-01-11,1314,Medicaid,Pending
+90173,Male,25,Atlanta Dialysis Center,90945,Home Hemodialysis,2025-01-12,1393,Private,Denied
+95717,Female,21,Atlanta Dialysis Center,90937,Hemodialysis,2025-01-13,1424,Medicaid,Paid
+79329,Male,21,Atlanta Dialysis Center,90937,Home Hemodialysis,2025-01-14,997,Uninsured,Pending
+11025,Female,73,Peach State Nephrology,90937,Hemodialysis,2025-01-15,431,Medicare,Pending
+97538,Female,42,Peach State Nephrology,90937,Home Hemodialysis,2025-01-16,1455,Private,Denied
+82692,Female,84,Eastside Renal Care,90935,Home Hemodialysis,2025-01-17,1343,Medicaid,Denied
+49240,Male,84,Atlanta Dialysis Center,90947,Home Hemodialysis,2025-01-18,835,Private,Paid
+96951,Male,44,Peach State Nephrology,90935,Hemodialysis,2025-01-19,1313,Private,Denied
+23577,Female,49,Peach State Nephrology,90945,Hemodialysis,2025-01-20,526,Medicaid,Pending
+27601,Male,67,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2025-01-21,1477,Private,Pending
+44664,Male,78,Eastside Renal Care,90935,Home Hemodialysis,2025-01-22,1121,Medicare,Denied
+25129,Male,68,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2025-01-23,1170,Uninsured,Denied
+24029,Male,36,Eastside Renal Care,90945,Peritoneal Dialysis,2025-01-24,704,Uninsured,Denied
+82512,Male,38,Peach State Nephrology,90945,Hemodialysis,2025-01-25,501,Medicare,Denied
+30374,Male,22,Eastside Renal Care,90935,Hemodialysis,2025-01-26,337,Private,Paid
+45697,Female,59,Peach State Nephrology,90935,Peritoneal Dialysis,2025-01-27,1241,Medicaid,Denied
+46930,Female,78,Atlanta Dialysis Center,90945,Home Hemodialysis,2025-01-28,487,Private,Paid
+89276,Male,39,Atlanta Dialysis Center,90947,Hemodialysis,2025-01-29,1380,Medicare,Pending
+37607,Female,38,Atlanta Dialysis Center,90947,Home Hemodialysis,2025-01-30,1240,Private,Denied
+54942,Female,87,Eastside Renal Care,90937,Home Hemodialysis,2025-01-31,1343,Uninsured,Paid
+36685,Female,18,Peach State Nephrology,90945,Peritoneal Dialysis,2025-02-01,572,Private,Denied
+93130,Female,22,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2025-02-02,1442,Medicare,Pending
+44600,Male,29,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2025-02-03,882,Uninsured,Pending
+76244,Female,63,Peach State Nephrology,90937,Peritoneal Dialysis,2025-02-04,815,Private,Pending
+74032,Female,51,Atlanta Dialysis Center,90945,Hemodialysis,2025-02-05,825,Private,Denied
+42914,Male,66,Peach State Nephrology,90945,Hemodialysis,2025-02-06,635,Uninsured,Denied
+16658,Male,62,Peach State Nephrology,90945,Peritoneal Dialysis,2025-02-07,997,Medicaid,Paid
+22097,Female,44,Peach State Nephrology,90935,Hemodialysis,2025-02-08,1378,Uninsured,Pending
+93136,Female,43,Peach State Nephrology,90937,Peritoneal Dialysis,2025-02-09,799,Medicaid,Denied
+65518,Female,64,Peach State Nephrology,90947,Home Hemodialysis,2025-02-10,1199,Medicare,Pending
+46265,Female,73,Eastside Renal Care,90947,Home Hemodialysis,2025-02-11,1065,Medicare,Pending
+15778,Female,80,Atlanta Dialysis Center,90947,Home Hemodialysis,2025-02-12,835,Uninsured,Paid
+10464,Female,65,Eastside Renal Care,90935,Peritoneal Dialysis,2025-02-13,461,Uninsured,Paid
+53719,Male,78,Atlanta Dialysis Center,90935,Home Hemodialysis,2025-02-14,893,Medicare,Paid
+27146,Female,43,Eastside Renal Care,90945,Hemodialysis,2025-02-15,458,Medicaid,Paid
+93507,Female,53,Peach State Nephrology,90947,Home Hemodialysis,2025-02-16,359,Medicare,Pending
+44335,Male,18,Atlanta Dialysis Center,90935,Home Hemodialysis,2025-02-17,1214,Uninsured,Paid
+31178,Male,25,Atlanta Dialysis Center,90945,Home Hemodialysis,2025-02-18,510,Medicare,Paid
+67912,Male,69,Eastside Renal Care,90947,Hemodialysis,2025-02-19,705,Uninsured,Paid
+82309,Male,64,Eastside Renal Care,90937,Peritoneal Dialysis,2025-02-20,963,Uninsured,Paid
+66057,Female,73,Atlanta Dialysis Center,90945,Hemodialysis,2025-02-21,1432,Medicare,Pending
+83519,Female,31,Eastside Renal Care,90935,Peritoneal Dialysis,2025-02-22,1399,Medicaid,Paid
+11267,Female,45,Eastside Renal Care,90935,Peritoneal Dialysis,2025-02-23,841,Private,Pending
+24663,Female,19,Eastside Renal Care,90945,Home Hemodialysis,2025-02-24,1297,Medicare,Denied
+19862,Female,43,Peach State Nephrology,90945,Peritoneal Dialysis,2025-02-25,1440,Private,Pending
+29536,Female,31,Peach State Nephrology,90935,Hemodialysis,2025-02-26,1226,Medicare,Pending
+81511,Male,76,Eastside Renal Care,90937,Hemodialysis,2025-02-27,1167,Private,Paid
+14722,Female,73,Eastside Renal Care,90947,Peritoneal Dialysis,2025-02-28,318,Medicaid,Denied
+58393,Male,24,Peach State Nephrology,90937,Home Hemodialysis,2025-03-01,731,Medicaid,Denied
+86350,Male,20,Peach State Nephrology,90945,Home Hemodialysis,2025-03-02,1039,Medicare,Denied
+82420,Female,40,Atlanta Dialysis Center,90937,Hemodialysis,2025-03-03,482,Uninsured,Denied
+29410,Male,35,Atlanta Dialysis Center,90935,Home Hemodialysis,2025-03-04,412,Private,Pending
+66333,Female,55,Peach State Nephrology,90945,Peritoneal Dialysis,2025-03-05,780,Uninsured,Denied
+26704,Male,32,Eastside Renal Care,90947,Peritoneal Dialysis,2025-03-06,1469,Uninsured,Pending
+15482,Female,81,Eastside Renal Care,90935,Hemodialysis,2025-03-07,1130,Uninsured,Pending
+50404,Male,45,Eastside Renal Care,90935,Peritoneal Dialysis,2025-03-08,1436,Medicaid,Pending
+57795,Female,56,Eastside Renal Care,90947,Hemodialysis,2025-03-09,1062,Medicare,Denied
+15229,Female,74,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2025-03-10,775,Medicare,Paid
+56898,Female,34,Peach State Nephrology,90937,Hemodialysis,2025-03-11,1062,Medicaid,Paid
+37535,Female,61,Eastside Renal Care,90945,Home Hemodialysis,2025-03-12,1270,Medicaid,Denied
+99399,Female,42,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2025-03-13,1319,Medicare,Paid
+42706,Male,34,Eastside Renal Care,90947,Peritoneal Dialysis,2025-03-14,1441,Uninsured,Paid
+97416,Male,30,Peach State Nephrology,90945,Hemodialysis,2025-03-15,460,Private,Pending
+23473,Male,42,Atlanta Dialysis Center,90947,Hemodialysis,2025-03-16,700,Private,Pending
+56357,Female,85,Peach State Nephrology,90947,Peritoneal Dialysis,2025-03-17,497,Private,Denied
+83385,Male,27,Peach State Nephrology,90937,Hemodialysis,2025-03-18,959,Uninsured,Denied
+63264,Female,84,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2025-03-19,1370,Medicare,Paid
+91351,Female,35,Atlanta Dialysis Center,90935,Home Hemodialysis,2025-03-20,698,Medicaid,Pending
+30257,Male,51,Atlanta Dialysis Center,90935,Hemodialysis,2025-03-21,377,Medicare,Denied
+41029,Male,25,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2025-03-22,423,Uninsured,Denied
+31299,Female,57,Atlanta Dialysis Center,90947,Home Hemodialysis,2025-03-23,374,Medicaid,Denied
+33206,Male,59,Atlanta Dialysis Center,90945,Home Hemodialysis,2025-03-24,436,Uninsured,Denied
+64040,Female,58,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2025-03-25,901,Private,Denied
+13248,Female,23,Eastside Renal Care,90937,Hemodialysis,2025-03-26,1136,Private,Denied
+33509,Female,69,Peach State Nephrology,90937,Peritoneal Dialysis,2025-03-27,799,Uninsured,Paid
+53540,Female,43,Atlanta Dialysis Center,90947,Home Hemodialysis,2025-03-28,437,Medicaid,Pending
+63964,Female,81,Eastside Renal Care,90945,Peritoneal Dialysis,2025-03-29,349,Medicaid,Pending
+97806,Male,76,Eastside Renal Care,90945,Hemodialysis,2025-03-30,1272,Medicare,Denied
+42527,Male,73,Eastside Renal Care,90935,Home Hemodialysis,2025-03-31,553,Private,Pending
+44970,Female,76,Peach State Nephrology,90947,Peritoneal Dialysis,2025-04-01,1009,Medicare,Pending
+30866,Female,87,Atlanta Dialysis Center,90947,Hemodialysis,2025-04-02,862,Medicare,Pending
+24168,Male,50,Eastside Renal Care,90935,Home Hemodialysis,2025-04-03,1056,Uninsured,Denied
+60140,Male,70,Peach State Nephrology,90947,Hemodialysis,2025-04-04,846,Uninsured,Denied
+15075,Female,39,Peach State Nephrology,90947,Home Hemodialysis,2025-04-05,1221,Medicare,Pending
+71694,Male,38,Peach State Nephrology,90937,Peritoneal Dialysis,2025-04-06,880,Private,Pending
+39154,Female,87,Eastside Renal Care,90945,Hemodialysis,2025-04-07,348,Uninsured,Denied
+36158,Male,87,Atlanta Dialysis Center,90947,Home Hemodialysis,2025-04-08,1216,Medicare,Paid
+70332,Female,21,Eastside Renal Care,90937,Hemodialysis,2025-04-09,1397,Medicare,Pending
+55830,Male,79,Eastside Renal Care,90945,Hemodialysis,2025-04-10,1003,Medicare,Paid
+50001,Female,79,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2025-04-11,560,Medicare,Pending
+39831,Male,41,Atlanta Dialysis Center,90937,Hemodialysis,2025-04-12,655,Medicare,Paid
+39219,Male,72,Atlanta Dialysis Center,90937,Home Hemodialysis,2025-04-13,937,Medicare,Paid
+13101,Female,26,Peach State Nephrology,90945,Home Hemodialysis,2025-04-14,1042,Uninsured,Paid
+96511,Male,20,Atlanta Dialysis Center,90935,Home Hemodialysis,2025-04-15,1309,Private,Denied
+35313,Female,48,Eastside Renal Care,90937,Home Hemodialysis,2025-04-16,1230,Medicare,Paid
+62227,Male,57,Atlanta Dialysis Center,90947,Peritoneal Dialysis,2025-04-17,940,Medicaid,Paid
+53025,Female,53,Eastside Renal Care,90947,Hemodialysis,2025-04-18,1091,Uninsured,Paid
+46517,Male,41,Peach State Nephrology,90947,Peritoneal Dialysis,2025-04-19,911,Uninsured,Pending
+19099,Female,23,Eastside Renal Care,90935,Hemodialysis,2025-04-20,1108,Medicare,Paid
+46585,Male,83,Eastside Renal Care,90937,Hemodialysis,2025-04-21,985,Uninsured,Pending
+56025,Female,21,Atlanta Dialysis Center,90947,Hemodialysis,2025-04-22,487,Medicare,Paid
+94080,Male,23,Atlanta Dialysis Center,90935,Peritoneal Dialysis,2025-04-23,1284,Private,Paid
+76768,Female,68,Eastside Renal Care,90947,Hemodialysis,2025-04-24,847,Private,Denied
+62386,Female,79,Atlanta Dialysis Center,90945,Peritoneal Dialysis,2025-04-25,1024,Uninsured,Pending
+99065,Female,74,Peach State Nephrology,90937,Home Hemodialysis,2025-04-26,1225,Uninsured,Paid
+80282,Male,83,Peach State Nephrology,90937,Home Hemodialysis,2025-04-27,1175,Medicaid,Pending
+53404,Female,25,Atlanta Dialysis Center,90935,Hemodialysis,2025-04-28,917,Uninsured,Pending
+13617,Male,43,Peach State Nephrology,90935,Peritoneal Dialysis,2025-04-29,713,Medicaid,Denied
+25118,Female,68,Atlanta Dialysis Center,90937,Home Hemodialysis,2025-04-30,1202,Private,Denied
+44237,Male,62,Eastside Renal Care,90947,Peritoneal Dialysis,2025-05-01,462,Private,Denied
+33405,Female,61,Eastside Renal Care,90947,Peritoneal Dialysis,2025-05-02,569,Medicare,Denied
+86099,Male,22,Peach State Nephrology,90945,Hemodialysis,2025-05-03,931,Private,Denied
+44795,Male,87,Atlanta Dialysis Center,90947,Home Hemodialysis,2025-05-04,1205,Medicaid,Denied
+15014,Female,43,Atlanta Dialysis Center,90935,Hemodialysis,2025-05-05,504,Uninsured,Denied
+24208,Male,85,Peach State Nephrology,90935,Hemodialysis,2025-05-06,881,Medicare,Denied
+88193,Male,36,Eastside Renal Care,90947,Home Hemodialysis,2025-05-07,1140,Medicaid,Paid
+66959,Female,37,Peach State Nephrology,90935,Home Hemodialysis,2025-05-08,895,Uninsured,Pending
+55309,Male,29,Eastside Renal Care,90937,Peritoneal Dialysis,2025-05-09,549,Medicare,Denied
+51114,Male,64,Atlanta Dialysis Center,90937,Home Hemodialysis,2025-05-10,1174,Private,Denied
+67199,Male,18,Eastside Renal Care,90947,Peritoneal Dialysis,2025-05-11,495,Medicaid,Pending
+89457,Female,31,Peach State Nephrology,90937,Peritoneal Dialysis,2025-05-12,989,Uninsured,Paid
+77033,Male,81,Atlanta Dialysis Center,90937,Peritoneal Dialysis,2025-05-13,1393,Medicare,Pending
+25157,Female,55,Peach State Nephrology,90945,Home Hemodialysis,2025-05-14,938,Medicare,Pending
